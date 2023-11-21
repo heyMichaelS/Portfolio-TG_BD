@@ -14,11 +14,7 @@
 
 ### Visão do Projeto
 
-
-
-
-
-
+Atualmente, pilotos freelancers enfrentam desafios significativos na gestão de suas aeronaves, pois operam diversas aeronaves e nem sempre têm acesso fácil às informações cruciais sobre equipamentos, versões de software e documentação técnica. A falta de acesso rápido a manuais e documentos também impacta negativamente o conhecimento dos pilotos sobre suas aeronaves e suas capacidades.
 
 <details open>
  <summary>Tecnologias Adotadas na Solução</summary>
@@ -92,24 +88,27 @@ Em resumo, este projeto não apenas ampliou minhas habilidades no Vue.js e JavaS
      
    <br>
  
-``
+` Currently, many pilots work as freelancers and do not operate just one aircraft/fleet, which makes it difficult to easily and simply recognize certain equipment and software versions installed on the aircraft. Additionally, pilots do not always have quick access to all manuals and documents for the aircraft, which impairs their knowledge about it and its capabilities.`
   
    <br>
    
-``
+` Ao enfrentar desafios na reinvenção da representação gráfica, você destacou habilidades sólidas de resolução de problemas para superar obstáculos e melhorar a usabilidade da aplicação.
+Colaboração:  `
    
    <br>
    
-``
+` A disposição para aprender e adaptar-se ao Vue.js e à lógica de corte da tela destaca uma mentalidade de aprendizado contínuo, uma qualidade valiosa em ambientes de tecnologia em constante evolução.
+Comunicação Efetiva   `
      
    <br>
    
-``
+`  A capacidade de comunicar claramente os desafios enfrentados, o processo de adaptação e os resultados alcançados sugere habilidades de comunicação eficazes.
+Hard Skills:
+Vue.js   `
     
    <br>
    
-``
-  <br> 
+ 
  </details>
   
   
@@ -119,26 +118,35 @@ Em resumo, este projeto não apenas ampliou minhas habilidades no Vue.js e JavaS
      
    <br>
   
-  
 
-``
-
-   <br>
-     
-``
+` Você adquiriu habilidades no desenvolvimento front-end usando Vue.js, uma biblioteca JavaScript para construção de interfaces de usuário.
+JavaScript:     `
 
    <br>
      
-``
+` Demonstrou proficiência no uso de JavaScript, uma linguagem de programação amplamente utilizada para desenvolvimento web.
+Manipulação de Gráficos em API:  `
 
    <br>
      
-`` 
+`  Anteriormente, você lidou com gráficos em uma API, indicando experiência em manipulação e integração de dados gráficos em aplicativos.
+Design Responsivo:  `
 
    <br>
      
-``
+` Ao destacar a atenção especial à experiência mobile, você demonstrou habilidades em design responsivo, adaptando a aplicação para diferentes dispositivos.
+Lógica de Corte da Tela: ` 
+
+   <br>
+     
+`Lidou com a lógica de corte da tela, indicando conhecimento em implementar interfaces amigáveis e responsivas para diferentes tamanhos de tela.
+Desenvolvimento Web:`
    
+   <br>
+
+` 
+Participação em um projeto voltado para a web sugere conhecimento em desenvolvimento web, abrangendo HTML, CSS e outras tecnologias relacionadas. `
+
    <br>
      
 </details>

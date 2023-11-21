@@ -17,19 +17,10 @@
 
 Desenvolver uma solução eficiente para a gestão de ativação de clientes na plataforma Dom Rock, proporcionando uma entrada de dados flexível e alocando recursos de forma inteligente. O sistema visa facilitar a entrada de parâmetros e variáveis específicas de cada cliente, estimando o consumo de recursos com base em diferentes métricas. Além disso, a plataforma busca uma base de dados robusta e bem modelada para suportar futuras integrações com outros sistemas.
 
-
-
 ### Tecnologias Adotadas na Solução
 
 <details open>
  <summary> Front-End </summary>
-
-  <br>
-
-<details>
-
-<summary>Front-End</summary>
-
 
 * [JavaFX Scene Builder 3](https://www.oracle.com/java/technologies/javafxscenebuilder-1x-archive-downloads.html)
 </details>
@@ -81,7 +72,7 @@ Desenvolver uma solução eficiente para a gestão de ativação de clientes na 
 ### Contribuições Pessoais
 
 <details open>
- <summary> Telas em qual colaborei</summary>
+ <summary> Telas em qual colaborei </summary>
 
   <br>
 
@@ -104,7 +95,7 @@ Desenvolver uma solução eficiente para a gestão de ativação de clientes na 
   <br>
 
 </details>
-
+-
 
 
 <details open>

@@ -2,8 +2,10 @@
 
 ## Introdução
 
+<p align="center"><img src="Projetos\imagens\Foto.jpg" alt="Sua Foto" style="border-radius: 50%;" width="150" height="150"/>
 
-<img src="Projetos\imagens\Foto.jpg" alt="Sua Foto" style="border-radius: 50%;" width="150" height="150"/>
+
+
 
 Olá e seja bem-vindo! Sou Michael Silva, tenho 28 anos e atuo como QA. Atualmente, sou estudante de Banco de Dados na FATEC São José dos Campos - Prof. Jessen Vidal. Meu envolvimento com a tecnologia começou durante o ensino fundamental, despertando meu interesse desde os primeiros contatos com computadores. Após concluir o ensino médio, ingressei na ETEC Professora Ilza Nascimento Pintus, onde concluí o curso técnico em informática em 2016. Após um período focado em outras áreas, retornei ao universo da tecnologia, sentindo que havia algo inacabado. Ingressei na FATEC para cursar Banco de Dados, abrindo novos horizontes. Agora, sei que minha trajetória sempre estará ligada à tecnologia.
 
@@ -24,7 +26,7 @@ O Projeto Integrador surge como uma oportunidade para abordar desafios do mundo 
 A seguir, destacam-se os projetos desenvolvidos, delineando o problema enfrentado, a solução proposta (e implementada), além dos valiosos aprendizados extraídos dessas experiências. Essa abordagem prática tem sido fundamental para consolidar e aplicar de forma eficaz os conceitos teóricos aprendidos durante meu percurso acadêmico.
 ### Sumário
 
-[Projeto 1 - Shark=Cov](https://github.com/heyMichaelS/Portfolio-TG_BD/blob/main/Projetos/1%20Semestre.md)
+[Projeto 1 - Shark Cov](https://github.com/heyMichaelS/Portfolio-TG_BD/blob/main/Projetos/1%20Semestre.md)
 
 [Projeto 2 - Dom Rock](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/2%20Semestre.md)
 
