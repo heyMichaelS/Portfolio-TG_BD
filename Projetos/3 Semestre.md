@@ -1,190 +1,309 @@
-# Projeto 3: 2º Semestre de 2022 
+# Michael Felipe Santos Silva
+Metodologia da Pesquisa Cientifico Tecnologica
 
-<img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-2/GIT/cabecario (3).jpg" width="60%" height="55%">
+## Introdução
+Olá seja bem vindo,Sou Michael, estudante de Banco de Dados pela FATEC Prof.Jasseb Vidal.
 
-### Reposiório do Projeto
+Tenho 28 anos e trabalho como Estagiario em QA.
 
-[IACIT - Fluffy Fatec](https://github.com/fluffyfatec/Iacit)
+<html>
+  <body>
+     <table align ="center">
+     <tr>
+       <p align ="center"><img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-1/GIT/cabecario%20(3).jpg" width="100%" height="100%"></img></p>
+     </tr>
+    </table>
 
-### Parceiro Acadêmico
+## Empresa parceira
 
-IACIT Soluções Tecnológicas
+A IACIT é uma empresa brasileira, fundada em 1986, e com sede em São José dos Campos (SP), um dos principais polos tecnológicos do Brasil e do mundo.
 
-### Visão do Projeto
+São 36 anos de experiência que começaram com a prestação de suporte técnico à Tecnasa, fabricante de equipamentos para o segmento de navegação aérea. Desde então, a empresa é impulsionada pelos constantes esforços para ampliar suas referências e conquistar novos mercados.
 
-O desafio foi estipulado como desenvolver um sistema que permita realizar a importação dos dados meteorológicos, bem como armazená-los em uma base de dados, para posteriormente gerar os relatórios desejados por nossos clientes.
+<h1>Portifólio da 3°API</h1>
+<p align="justify"> Portfólio das Aprendizagens a partir de Projeto Integrador (APIs),
+apresentado à Faculdade de Tecnologia de São José dos Campos,
+como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</p>
+<hr>
+<h2><li><b>Descrição do Projeto</b></li></h2>
+    <p align="justify">
+      <a href="https://github.com/heyMichaelS/Iacit">#DASHBOARD METEOROLÓGICO</a> Foi elaborado um programa online para a empresa Iacit que permite automatizar o download, processamento e armazenamento simplificado dos dados meteorológicos no banco de dados. Além disso, será possível filtrar esses dados por temperatura, umidade, estações, vento, pressão atmosférica, radiação solar e precipitação, bem como visualizá-los de várias formas. Além disso, foram desenvolvidos diferentes níveis de usuários, juntamente com um painel administrativo, que permite exportar relatórios com base nos dados obtidos.
+    </p>
 
-Como solução, a equipe desenvolveu um software web para a empresa, que possibilita a automatização desde o download, o processamento dos dados e a persistência dos dados no banco de dados de forma simplificada. Também é possível realizar a filtragem desses dados por temperatura, umidade, estações, vento, pressão atmosférica, radiação global e precipitação, além da diversa visualizações desses dados. E por último, foram desenvolvidos diferentes níveis de usuários juntamente com o painel administrativo possibilitando a exportação dos relatórios a partir dos dados.
+<p align="center">
+      <img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-2/GIT/VID-20221009-WA0013%20(2).gif" width="100%" height="100%">
+<p align="center">
 
-Representação da solução do projeto:
+  
+Dominar a biblioteca Chart.js e a criação de gráficos foi uma experiência técnica enriquecedora. Explorei suas funcionalidades, personalizando a aparência e adicionando interatividade. Agora sou capaz de criar visualizações de dados sofisticadas e profissionais, transmitindo informações complexas de forma clara e impactante. Essa habilidade amplia minhas capacidades como desenvolvedor, oferecendo aos usuários uma experiência excepcional de análise de dados.
 
-<img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-2/GIT/VID-20221009-WA0013%20(2).gif" width="60%" height="55%">
 
 
-### Tecnologias Adotadas na Solução
+<h2>Tecnologias Utilizadas</h2>
+    <details open>
+<summary>Front-End</summary>
 
-#### Java - Spring Boot
+* JavaScript
+* HTML
+* CSS
+* ChartJs
 
-A linguagem Java foi utilizada em praticamente todo o back-end da aplicação. Junto com o framework Spring Boot, foram desenvolvidas, com a linguagem, diversas funcionalidades da aplicação, como a configuração da lógica para a utilização dos dados armazenados no banco de dados, o desenvolvimento de toda a API do sistema para que os dados possam ser consumidos pelo front-end, as funções de CRUD (Create, Read, Update, Delete) do usúario, e a segurança da aplicação via token.  
+</details>
 
-Para saber mais, acesse: [Java](https://www.java.com)
+ <details open>
+<summary>Back-End</summary>
 
-#### Python
+* Java
+* Python
+* Spring boot
 
-A linguagem Python foi utilizada para a automatização do tratamento de dados da aplicação. Com ela, foi feito desde o download dos arquivos CSVs, originados do [Portal INMET](https://portal.inmet.gov.br), efetuando a descompactação dos arquivos, tratamento de todos os dados meteorológicos, e a inserção desses dados no banco de dados. Tudo de forma automatizada pela rotina de tarefas desenvolvidas na linguagem.
+</details>
 
-Para saber mais, acesse: [Python](https://www.python.org)
+<details open>
+<summary>Banco de Dados</summary>
 
-#### JavaScript
+* PostgresSQL
 
-A linguagem JavaScript foi utilizada em grande parte do front-end da aplicação. Com ela foi efetuada a utilização dos dados enviados do back-end para o front-end, desenvolvendo gráficos, tabelas e outras formas de visualização de dados para o usuário. Além de ser utilizada para deixar as telas da aplicação de forma dinâmica, fazendo com que elas sejam responsivas com as ações tomadas pelo usuário e os dados atuais do banco de dados.
+</details>
 
-Para saber mais, acesse: [JavaScript](https://www.javascript.com)
+<details open>
+<summary>Reuniões e Comunicação</summary>
 
-#### PostgreSQL
+* Discord
+* Whatsaap
+* Slack
 
-O SGDB (Sistema Gerenciador de Banco de Dados) PostgreSQL foi utilizado para o armazenamento dos dados automatizados pelo Python. Com ele, foram feitas as criações de tabelas, views e triggers do banco de dados da aplicação, e era feito o gerenciamento dos dados.
+</details>
 
-Para saber mais, acesse: [PostgreSQL](https://www.postgresql.org)
+<details open>
+<summary>Outras Ferramentas</summary>
 
-### Contribuições Pessoais
+* Github
+* Eclipse IDE
+* Intellij IDE
+* Azure DevOps
+* Photoshop
 
-Fui responsável pela programação do front-end da aplicação, que se consistia em consumir os dados gerados pelo back-end através de API e gerar uma interface para o usuário poder utilizar a aplicação.
+</details>
+    
 
-Por estar focado nesta parte do projeto, fui encarregado, junto com a equipe de front-end, de estudar e desenvolver as telas da aplicação. Com isso, foram definidos os layouts de cada tela, desenvolvidos gráficos, tabelas e filtros dinâmicos, todos utilizando os dados consumidos do back-end.
+Minha atuação como desenvolvedor do grupo Fluffy fiquei na parte do front-end onde tivemos uma missão de criar um deashbord intuitivo que fosse possivel ter a visualização de algumas formas de dados meterologicos
+<br>
+ 
+# Contribuicoes individuais
 
-O desenvolvimento das telas contou com a linguagem de marcação HTML, junto com a estilização em CSS. A parte lógica da aplicação contou com JavaScript, e em algumas situações, a técnica AJAX.
+<details open>
+ <summary>Plotar Graficos</summary>
+  <br>
+ 
+  Apresentamos abaixo um trecho de código responsável por recuperar informações geradas no banco de dados e exibi-las visualmente na forma de gráficos de linha. Essa funcionalidade permite que os dados sejam apresentados de maneira visual na tela, possibilitando uma análise prioritária de acordo com as necessidades do cliente. Com esse recurso, é possível oferecer uma experiência interativa e personalizada, permitindo que o cliente tome decisões com base nas informações apresentadas de forma clara e visualmente atraente.
+  
+  <br>
+  
+  ```
+  let tipo = ''
 
-Exemplos de etapas do desenvolvimento do projeto:
+function btnlinha(){
+    tipo = 'line'
+    gerarGrafico()
+}
+
+function btnhist(){
+    tipo = 'bar'
+    gerarGrafico()
+}
+
+
+function gerarGrafico(){
+
+    if (tipo == 'line'){ //LINHA///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+        const ctx = document.getElementById('grafico').getContext('2d');
+        const myChart = new Chart(ctx, {
+            type: tipo,
+            data: {
+                labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
+                datasets: [{
+                    label: '# of Votes',
+                    data: [12, 19, 3, 5, 2, 3],
+                    backgroundColor: [
+                        'rgba(255, 99, 132, 0.2)',
+                        'rgba(54, 162, 235, 0.2)',
+                        'rgba(255, 206, 86, 0.2)',
+                        'rgba(75, 192, 192, 0.2)',
+                        'rgba(153, 102, 255, 0.2)',
+                        'rgba(255, 159, 64, 0.2)'
+                    ],
+                    borderColor: [
+                        'rgba(255, 99, 132, 1)',
+                        'rgba(54, 162, 235, 1)',
+                        'rgba(255, 206, 86, 1)',
+                        'rgba(75, 192, 192, 1)',
+                        'rgba(153, 102, 255, 1)',
+                        'rgba(255, 159, 64, 1)'
+                    ],
+                    borderWidth: 1
+                }]
+            },
+            options: {
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        });
+
+    }
+  
+  ```
+</details>
 
 
 <details open>
-<summary>Geração de gráficos</summary>
-<br>
+ <summary> Desenvolvi a tabela juntamente com a paginação</summary>
+  <br>
+ 
+  Abaixo com esse trecho de codigo onde no front foi gerada a paginação das tabelas nesse em questão foi da tabela de precipitação onde também é decidido a quantidade de paginas que vai ter de acordo com dados que são poulados na tabela em questão.
 
-```js
-const ctx = document.getElementById('graficoTemperatura');
-const myChart = new Chart(ctx, {
-  type: 'line',
-  data: {
-      labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
-      datasets: [{
-          label: 'Temperatura',
-          data: [12, 19, 3, 5, 2, 3],
-          backgroundColor: [
-              'rgba(255, 99, 132, 0.2)','rgba(54, 162, 235, 0.2)','rgba(255, 206, 86, 0.2)',
-              'rgba(75, 192, 192, 0.2)','rgba(153, 102, 255, 0.2)','rgba(255, 159, 64, 0.2)'],
-          borderColor: [
-              'rgba(255, 99, 132, 1)','rgba(54, 162, 235, 1)','rgba(255, 206, 86, 1)',
-              'rgba(75, 192, 192, 1)','rgba(153, 102, 255, 1)','rgba(255, 159, 64, 1)'],
-          fill: 1
-      }]
-  },
-  options: {
-    responsive: true,
-    scales: {
-      y: { beginAtZero: false }
-    }}
-});
-```
-
-</details>
-
-<details>
-<summary>Exibição de gráficos</summary>
-<br>
-
-``` html
-<div th:replace="~{fragmentCards :: Cards}"></div>
-    <div class="row">
-        <section class="col-lg-12 connectedSortable">
-            <div th:replace="~{fragmentGraficos :: graficoTemperaturaBar}"></div>
-            <div th:replace="~{fragmentGraficos :: graficoTemperaturaLinha}"></div>
-            <div th:replace="~{fragmentGraficos :: graficoUmidadeLinha}"></div>
-            <div th:replace="~{fragmentGraficos :: graficoUmidadeBar}"></div>
-            <div th:replace="~{fragmentGraficos :: graficoVentoLinha}"></div>
-            <div th:replace="~{fragmentGraficos :: graficoVentoBar}"></div>             
-        </section>
-    </div>
-</div>
-```
-
-</details>
-
-<details>
-<summary>Geração de Tabelas</summary>
-<br>
-
-``` js
-var $table = document.getElementById("tabelaPressao"),
+  <br> 
+  
+  ```
+  // get the table element
+var $table = document.getElementById("tabelaPrecipitacao"),
+// number of rows per page
 $n = 16,
+// number of rows of the table
 $rowCount = $table.rows.length,
+// get the first cell's tag name (in the first row)
 $firstRow = $table.rows[0].firstElementChild.tagName,
+// boolean var to check if table has a head row
 $hasHead = ($firstRow === "TH"),
+// an array to hold each row
 $tr = [],
+// loop counters, to start count from rows[1] (2nd row) if the first row has a head tag
 $i,$ii,$j = ($hasHead)?1:0,
+// holds the first row if it has a (<TH>) & nothing if (<TD>)
 $th = ($hasHead?$table.rows[(0)].outerHTML:"");
+// count the number of pages
 var $pageCount = Math.ceil($rowCount / $n);
-
+// if we had one page only, then we have nothing to do ..
 if ($pageCount > 1) {
+  // assign each row outHTML (tag name & innerHTML) to the array
   for ($i = $j,$ii = 0; $i < $rowCount; $i++, $ii++)
     $tr[$ii] = $table.rows[$i].outerHTML;
+  // create a div block to hold the buttons
   $table.insertAdjacentHTML("afterend","<div id='buttons'></div");
+  // the first sort, default page is the first one
   sort(1);
 }
 
-function sort($p) {
-  var $rows = $th,$s = (($n * $p)-$n);
-  for ($i = $s; $i < ($s+$n) && $i < $tr.length; $i++)
-    $rows += $tr[$i];
+  ```
+</details>
+
+
+
+
+<details open>
+ <summary>Auxilei também na exportação tanto das tabelas quanto dos graficos em pdf</summary>
+    <br>
   
-  $table.innerHTML = $rows;
-  document.getElementById("buttons").innerHTML = pageButtons($pageCount,$p);
-  document.getElementById("id"+$p).setAttribute("class","chart");
+Com base no código abaixo, apresentamos um exemplo do processo de geração de gráficos em PDF. Os parâmetros necessários para a criação de cada imagem são passados, permitindo ao cliente baixar qualquer gráfico de qualquer tela que ofereça essa funcionalidade. Isso oferece flexibilidade ao usuário, que pode escolher livremente quais gráficos deseja incluir em seu PDF.
+ 
+  <br> 
+  
+  
+  ```
+  function jsGraficosPDF(chart1, chart2, tela) {
+
+    const canvas = document.getElementById(chart1);
+    const canvas2 = document.getElementById(chart2);
+
+    //criando a imagem a partir do gráfico
+    const canvasImage = canvas.toDataURL('image/png', 1);
+    const canvasImage2 = canvas2.toDataURL('image/png', 1);
+
+    //variáveis para o texto do PDF
+    var estado = document.getElementById('estado');
+    var estacao = document.getElementById('estacao');
+    var dataMin = document.getElementById('dtMin');
+    var dataMax = document.getElementById('dtMax');
+
+    //passando a imagem para o pdf
+    let pdf = new jsPDF('landscape');
+    pdf.setFontSize(24);
+    pdf.setFont('helvetica', 'bold');
+    pdf.text(15, 15, ["Estação " + estacao.innerText + ", Estado de " + estado.innerText, " "]);
+    pdf.setFont('helvetica', '');
+    pdf.text(15, 15, [" ", "Dados de " + dataMin.innerText + " até " + dataMax.innerText]);
+    pdf.addImage(canvasImage, 'PNG', 10, 35, 275, 150);
+    pdf.addPage();
+    pdf.addImage(canvasImage2, 'PNG', 10, 30, 275, 150);
+    pdf.save('Gráficos ' + tela + ' (' + estacao.innerText + ').pdf');
+
 }
 
-function pageButtons($pCount,$cur) {
-  var $prevDis = ($cur == 1)?"disabled":"",
-    $nextDis = ($cur == $pCount)?"disabled":"",
-    $buttons = "<input class='chart' type='button' value='&lt;&lt; Anterior' onclick='sort("+($cur - 1)+")' "+$prevDis+">";
-  for ($i=1; $i<=$pCount;$i++)
-    $buttons += "<input  class='chart' type='button' id='id"+$i+"'value='"+$i+"' onclick='sort("+$i+")'>";
-  $buttons += "<input class='chart' type='button' value='Próximo &gt;&gt;' onclick='sort("+($cur + 1)+")' "+$nextDis+">";
-  return $buttons;
-}
-```
-
+  
+  ```
 </details>
 
-<details>
-<summary>Filtros dinâmicos</summary>
-
-``` html
-<select class="form-control" id="jsAjaxFiltro" onchange="filtroEstacao()" required>
-    <option value="" selected>Escolha a Estação...</option>
-    <option value="estacao" th:each="zz : ${filtroEstacao}">[[${zz.estacaoNome}]]</option>
-</select>
-```
 
 
+<br>
+
+ <details open>
+
+   <summary>Soft skills:</summary>
+     
+   <br>
+ 
+`Trabalho em equipe:` Colaborei de forma eficaz em um projeto, contribuindo para o desenvolvimento de um dashboard eficiente e intuitivo.
+  
+   <br>
+   
+`Comunicação:` Mantive uma comunicação clara e efetiva com a equipe, garantindo que as tarefas fossem executadas de maneira adequada.
+   
+   <br>
+   
+`Adaptabilidade:` Fui capaz de me adaptar a diferentes desafios e requisitos do projeto, buscando soluções criativas para atender às necessidades dos usuários.
+     
+   <br>
+   
+`Organização:` Gerenciei meu tempo e tarefas de forma eficiente, garantindo que os prazos fossem cumpridos e o trabalho fosse entregue com qualidade.
+    
+   <br>
+   
+`Aprendizado rápido:` Assimilei novas tecnologias e conceitos, como bibliotecas de visualização de dados e frameworks de desenvolvimento web, de forma rápida e eficiente.
+  <br> 
+ </details>
+  
+  
+   <details open>
+
+   <summary>Hard skills:</summary>
+     
+   <br>
+  
+  
+
+`Desenvolvimento Front-end:` Possuo habilidades sólidas em HTML, CSS e JavaScript, aplicando essas tecnologias para criar interfaces amigáveis e responsivas.
+
+   <br>
+     
+`Chart.js:` Dominei a biblioteca Chart.js para criar gráficos interativos e atrativos, exibindo informações de maneira clara.
+
+   <br>
+     
+`Bootstrap Table:` Utilizei o framework Bootstrap Table para desenvolver tabelas dinâmicas e implementar a funcionalidade de paginação.
+
+   <br>
+     
+`Figma:`  Adquiri conhecimentos básicos em Figma, utilizando-o para criar esboços de layout e fluxos de interação, contribuindo para a concepção de uma interface de usuário intuitiva.
+
+   <br>
+     
+`UX/UI Design:` Aprendi sobre os princípios de design de experiência do usuário (UX) e design de interface do usuário (UI), aplicando elementos visuais e interativos para facilitar a navegação e criar uma experiência agradável para o usuário.
+   
+   <br>
+     
 </details>
-
-### Aprendizados Efetivos (Soft e Hard Skills)
-
-Com o desenvolvimento desse projeto, pude ter a oportunidade de me desenvolver de várias formas, tanto no âmbito acadêmico, como também no profissional e pessoal. Dentre estas oportunidades, destacam-se:
-- Aprendizado e o aperfeiçoamento em áreas como a colaboração/trabalho em equipe;
-- Comunicação entre os membros do grupo;
-- Utilização do pensamento crítico; 
-- Capacidade de resolução de problemas; 
-- Gestão do tempo. 
-
-Todas essas habilidades foram necessárias para que o grupo pudesse concluir o projeto de forma positiva e eficaz, entregando a solução do projeto. Essas "soft skills" são responsáveis por manter o grupo alinhado e trabalhando junto, cada um com a sua função específica, para que podessemos avançar nas etapas e nos desafios do projeto.
-
-Juntos com elas, também se pode ressaltar algumas "hard skills" exigidas para esse projeto, como por exemplo:
-- Conhecimento ligado ao desenvolvimento web;
-- Gestão do banco de dados;
-- Configuração de segurança da aplicação;
-- Desenvolvimento de usuário e interface do usuário;
-- Administração do sistema desenvolvido. 
-
-Essas habilidades foram relevantes para a parte prática do projeto em si e, com a busca de materiais e trabalho em equipe, cada uma foi aperfeiçoada nesse tempo de desenvolvimento, resultando numa conclusão correta do sistema.
+  

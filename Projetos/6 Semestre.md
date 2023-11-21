@@ -14,4 +14,70 @@
 
 ### Contribuições Pessoais
 
+<details open>
+ <summary> </summary>
+
+  <br>
+
+
+  <br>
+
+</details>
+
+
+<details open>
+ <summary> </summary>
+
+  <br>
+
+
+  <br>
+
+</details>
+
+
+
+<details open>
+ <summary> </summary>
+
+  <br>
+
+
+  <br>
+
+</details>
+
+
+<details open>
+ <summary> </summary>
+
+  <br>
+
+
+  <br>
+
+</details>
+
+
+<details open>
+ <summary> </summary>
+
+  <br>
+
+
+  <br>
+
+</details>
+
+
+<details open>
+ <summary> </summary>
+
+  <br>
+
+
+  <br>
+
+</details>
+
 ### Aprendizados Efetivos (Soft e Hard Skills)
