@@ -306,4 +306,28 @@ Com base no código abaixo, apresentamos um exemplo do processo de geração de 
    <br>
      
 </details>
+
+### Aprendizados Efetivos Hard Skills
+<table>
+  <tr>
+    <th width="300px">Tecnologia/Metodologia</th>
+    <th width="300px">Classificação</th>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Chart.js</td>
+    <td>★★★★★★★☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Vue</td>
+    <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>★★★☆☆☆☆☆☆☆</td>
+  </tr>
+</table>
   
