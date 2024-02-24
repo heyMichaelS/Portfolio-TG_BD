@@ -1,7 +1,5 @@
 # Projeto 1: 2º Semestre de 2021 
 
-<img src="" width="60%" height="55%">
-
 ### Reposiório do Projeto
 
 [ Shark=Cov - Shark Tech Fatec](https://github.com/heyMichaelS/Projeto-Integrador-2021-2-Grupo3)
@@ -12,8 +10,6 @@ Interno - FATEC
 
 
 ### Visão do Projeto
-
-
 
 
 <h2>Tecnologias Utilizadas</h2>
@@ -166,41 +162,35 @@ Fui encarregado da coleta e tratamento dos dados da COVID-19, assegurando a prec
 
    <summary>Hard skills:</summary>
      
-   <br>
-  
-  `Desenvolvimento em Python:` O projeto utilizou a linguagem de programação Python, indicando que você adquiriu habilidades no desenvolvimento dessa linguagem.
 
 
-   <br>
-
-   `Uso de bibliotecas Python:` A utilização das bibliotecas Pandas, Matplotlib e Unidecode demonstra conhecimento em ferramentas específicas para manipulação e visualização de dados em Python.
-
-
-
-   <br>
+### Aprendizados Efetivos Hard Skills
+<table>
+  <tr>
+    <th width="300px">Tecnologia/Metodologia</th>
+    <th width="300px">Classificação</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Pandas</td>
+    <td>★★★★★★★☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Jupyter Notebook</td>
+    <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td>matplotlib.pyplot</td>
+    <td>★★★☆☆☆☆☆☆☆</td>
+  </tr>
+   <tr>
+    <td>Unidecode</td>
+    <td>★★★☆☆☆☆☆☆☆</td>
+   </tr>
     
-`Trabalho com dados em Jupyter Notebook:` O uso do Jupyter Notebook indica familiaridade com ambientes interativos para desenvolvimento e análise de dados.
-
-
-   <br>
-
-`Versionamento de código com o GitHub:` A criação da página no GitHub sugere que você adquiriu experiência no versionamento de código e colaboração em projetos de software usando essa plataforma.
-
-
-   <br>
-
-`Wireframing com o Figma:` O desenvolvimento do wireframe no Figma mostra competência na prototipagem de interfaces antes da implementação, o que é uma habilidade valiosa no design de software.
-    
-
-   
-   <br>
-
-`Integração de diferentes tecnologias:` A combinação de tecnologias como Figma, Python, Jupyter Notebook, PyCharm, GitHub e Discord demonstra uma abordagem integrada e versátil no desenvolvimento do projeto.
-
-   <br>
-     
-</details>
-
-
+</table>
 
 
