@@ -1,11 +1,5 @@
 # Projeto 2: 1º Semestre de 2022 
 
-<img src="https://github.com/fluffyfatec/Dom_Rock/blob/main/GIT/cabecario2.jpg" width="60%" height="55%">
-
-### Reposiório do Projeto
-
-[Dom Rock - Fluffy Fatec](https://github.com/fluffyfatec/Dom_Rock)
-
 ### Parceiro Acadêmico
 
 <p align="center">
@@ -148,57 +142,36 @@ Desenvolver uma solução eficiente para a gestão de ativação de clientes na 
 
    <summary>Soft skills:</summary>
      
-   <br>
- 
-``
-  
-   <br>
-   
-``
-   
-   <br>
-   
-``
-     
-   <br>
-   
-``
-    
-   <br>
-   
-``
-  <br> 
  </details>
-  
   
    <details open>
 
    <summary>Hard skills:</summary>
      
-   <br>
-  
-  
+  ### Aprendizados Efetivos Hard Skills
+<table>
+  <tr>
+    <th width="300px">Tecnologia/Metodologia</th>
+    <th width="300px">Classificação</th>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td>JavaFX Scene Builder 3</td>
+    <td>★★★★★★★☆☆☆</td>
+  </tr>
+  <tr>
+    <td>SQL Server Nuvem Azure</td>
+    <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>★★★☆☆☆☆☆☆☆</td>
+  </tr>
+</table>
 
-``
-
-   <br>
-     
-``
-
-   <br>
-     
-``
-
-   <br>
-     
-`` 
-
-   <br>
-     
-``
-   
-   <br>
-     
 </details>
   
 
