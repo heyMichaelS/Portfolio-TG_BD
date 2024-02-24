@@ -1,10 +1,5 @@
 # Projeto 4: 1º Semestre de 2023 
 
-<img src="https://github.com/octopusBD/apiEmbraer4-sem/blob/b92089563bafd98ceac265983ccba1574dacab6e/Imagens%20documentacao/doc/inicial.png" width="60%" height="55%">
-
-### Reposiório do Projeto
-
-[Embraer - Octopus](https://github.com/octopusBD/apiEmbraer4-sem)
 
 ### Parceiro Acadêmico
 
@@ -148,6 +143,31 @@ Desenvolvimento Web:`
 Participação em um projeto voltado para a web sugere conhecimento em desenvolvimento web, abrangendo HTML, CSS e outras tecnologias relacionadas. `
 
    <br>
-     
+   
+
 </details>
+
+### Aprendizados Efetivos Hard Skills
+<table>
+  <tr>
+    <th width="300px">Tecnologia/Metodologia</th>
+    <th width="300px">Classificação</th>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>★★★★★★★☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Vue</td>
+    <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>★★★☆☆☆☆☆☆☆</td>
+  </tr>
+</table>
   
