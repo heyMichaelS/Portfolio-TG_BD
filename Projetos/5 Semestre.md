@@ -148,26 +148,7 @@ Este envolvimento ativo na definição e estruturação do projeto não apenas a
 
    <summary>Soft skills:</summary>
      
-   <br>
- 
-``
-  
-   <br>
-   
-``
-   
-   <br>
-   
-``
-     
-   <br>
-   
-``
-    
-   <br>
-   
-``
-  <br> 
+
  </details>
   
   
@@ -175,29 +156,29 @@ Este envolvimento ativo na definição e estruturação do projeto não apenas a
 
    <summary>Hard skills:</summary>
      
-   <br>
-  
-  
-
-``
-
-   <br>
-     
-``
-
-   <br>
-     
-``
-
-   <br>
-     
-`` 
-
-   <br>
-     
-``
-   
-   <br>
+### Aprendizados Efetivos Hard Skills
+<table>
+  <tr>
+    <th width="300px">Tecnologia/Metodologia</th>
+    <th width="300px">Classificação</th>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>★★★★★★★☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Vue</td>
+    <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>★★★☆☆☆☆☆☆☆</td>
+  </tr>
+</table>
      
 </details>
   
