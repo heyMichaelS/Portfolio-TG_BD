@@ -2,10 +2,9 @@
 
 ### Reposiório do Projeto
 
-[Oracle - Fluffy Fatec](https://github.com/Fluffy-Fatec)
+[Imagem - Fluffy Fatec](https://github.com/Fluffy-Fatec)
 
 ### Parceiro Acadêmico
-
 
 
 ### Visão do Projeto
