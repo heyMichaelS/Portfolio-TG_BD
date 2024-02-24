@@ -80,3 +80,26 @@
 </details>
 
 ### Aprendizados Efetivos (Soft e Hard Skills)
+### Aprendizados Efetivos Hard Skills
+<table>
+  <tr>
+    <th width="300px">Tecnologia/Metodologia</th>
+    <th width="300px">Classificação</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>★★★★★★★☆☆☆</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>★★★★★☆☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td></td>
+    <td>★★★☆☆☆☆☆☆☆</td>
+  </tr>
+</table>
