@@ -36,4 +36,4 @@ A seguir, destacam-se os projetos desenvolvidos, delineando o problema enfrentad
 
 [Projeto 5 - Oracle](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/5%20Semestre.md)
 
-[Projeto 6 -       ](https://github.com/heyMichaelS/Portfolio-TG_BD/blob/main/Projetos/6%20Semestre.md)
+[Projeto 6 - Imagem](https://github.com/heyMichaelS/Portfolio-TG_BD/blob/main/Projetos/6%20Semestre.md)
