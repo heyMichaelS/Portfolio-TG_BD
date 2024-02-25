@@ -7,12 +7,12 @@
       <img src="https://github.com/octopusBD/apiEmbraer4-sem/blob/b92089563bafd98ceac265983ccba1574dacab6e/Imagens%20documentacao/doc/inicial.png" width="100%" height="100%">
 <p align="center">
 
+
 ### Visão do Projeto
 
 Atualmente, pilotos freelancers enfrentam desafios significativos na gestão de suas aeronaves, pois operam diversas aeronaves e nem sempre têm acesso fácil às informações cruciais sobre equipamentos, versões de software e documentação técnica. A falta de acesso rápido a manuais e documentos também impacta negativamente o conhecimento dos pilotos sobre suas aeronaves e suas capacidades.
 
-<details open>
- <summary>Tecnologias Adotadas na Solução</summary>
+### Tecnologias Adotadas na Solução
 
  <details>
 <summary>Front-End</summary>
@@ -50,7 +50,6 @@ Atualmente, pilotos freelancers enfrentam desafios significativos na gestão de 
 </details>
 
 
-
 ### Contribuições Pessoais
 
 
@@ -77,7 +76,6 @@ Em resumo, este projeto não apenas ampliou minhas habilidades no Vue.js e JavaS
 ### Aprendizados Efetivos (Soft e Hard Skills)
 
 
- <details open>
 
    <summary>Soft skills:</summary>
      
@@ -106,46 +104,6 @@ Vue.js   `
  
  </details>
   
-  
-   <details open>
-
-   <summary>Hard skills:</summary>
-     
-   <br>
-  
-
-` Você adquiriu habilidades no desenvolvimento front-end usando Vue.js, uma biblioteca JavaScript para construção de interfaces de usuário.
-JavaScript:     `
-
-   <br>
-     
-` Demonstrou proficiência no uso de JavaScript, uma linguagem de programação amplamente utilizada para desenvolvimento web.
-Manipulação de Gráficos em API:  `
-
-   <br>
-     
-`  Anteriormente, você lidou com gráficos em uma API, indicando experiência em manipulação e integração de dados gráficos em aplicativos.
-Design Responsivo:  `
-
-   <br>
-     
-` Ao destacar a atenção especial à experiência mobile, você demonstrou habilidades em design responsivo, adaptando a aplicação para diferentes dispositivos.
-Lógica de Corte da Tela: ` 
-
-   <br>
-     
-`Lidou com a lógica de corte da tela, indicando conhecimento em implementar interfaces amigáveis e responsivas para diferentes tamanhos de tela.
-Desenvolvimento Web:`
-   
-   <br>
-
-` 
-Participação em um projeto voltado para a web sugere conhecimento em desenvolvimento web, abrangendo HTML, CSS e outras tecnologias relacionadas. `
-
-   <br>
-   
-
-</details>
 
 ### Aprendizados Efetivos Hard Skills
 <table>
@@ -163,7 +121,7 @@ Participação em um projeto voltado para a web sugere conhecimento em desenvolv
   </tr>
   <tr>
     <td>Vue</td>
-    <td>★★★★★☆☆☆☆☆</td>
+    <td>★★★★★★☆☆☆☆</td>
   </tr>
   <tr>
     <td>Figma</td>
