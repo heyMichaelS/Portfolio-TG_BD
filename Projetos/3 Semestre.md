@@ -270,36 +270,6 @@ Com base no código abaixo, apresentamos um exemplo do processo de geração de 
   <br> 
  </details>
   
-  
-   <details open>
-
-   <summary>Hard skills:</summary>
-     
-   <br>
-  
-  
-
-`Desenvolvimento Front-end:` Possuo habilidades sólidas em HTML, CSS e JavaScript, aplicando essas tecnologias para criar interfaces amigáveis e responsivas.
-
-   <br>
-     
-`Chart.js:` Dominei a biblioteca Chart.js para criar gráficos interativos e atrativos, exibindo informações de maneira clara.
-
-   <br>
-     
-`Bootstrap Table:` Utilizei o framework Bootstrap Table para desenvolver tabelas dinâmicas e implementar a funcionalidade de paginação.
-
-   <br>
-     
-`Figma:`  Adquiri conhecimentos básicos em Figma, utilizando-o para criar esboços de layout e fluxos de interação, contribuindo para a concepção de uma interface de usuário intuitiva.
-
-   <br>
-     
-`UX/UI Design:` Aprendi sobre os princípios de design de experiência do usuário (UX) e design de interface do usuário (UI), aplicando elementos visuais e interativos para facilitar a navegação e criar uma experiência agradável para o usuário.
-   
-   <br>
-     
-</details>
 
 ### Aprendizados Efetivos Hard Skills
 <table>
