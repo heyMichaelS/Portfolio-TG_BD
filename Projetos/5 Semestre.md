@@ -6,9 +6,9 @@
 
 # Projeto-Integrador-Oracle
 
-<img src = "./Documentacao/Team/imgOracleFatec_1.jpg">
-
+<img src = "./imagens/imgOracleFatec_1.jpg">
 <br>
+
 
 
 ### Visão do Projeto
@@ -17,9 +17,6 @@ Neste projeto, enfrentamos o desafio de criar um painel de visualização que co
 
 
 ### Tecnologias Adotadas na Solução
-
-<details open>
- <summary> </summary>
 
   <details>
 <summary>Front-End</summary>
