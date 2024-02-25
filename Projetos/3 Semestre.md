@@ -19,9 +19,10 @@ São 36 anos de experiência que começaram com a prestação de suporte técnic
 apresentado à Faculdade de Tecnologia de São José dos Campos,
 como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</p>
 <hr>
-<h2><li><b>Descrição do Projeto</b></li></h2>
-    <p align="justify">
-      <a href="https://github.com/heyMichaelS/Iacit">#DASHBOARD METEOROLÓGICO</a> Foi elaborado um programa online para a empresa Iacit que permite automatizar o download, processamento e armazenamento simplificado dos dados meteorológicos no banco de dados. Além disso, será possível filtrar esses dados por temperatura, umidade, estações, vento, pressão atmosférica, radiação solar e precipitação, bem como visualizá-los de várias formas. Além disso, foram desenvolvidos diferentes níveis de usuários, juntamente com um painel administrativo, que permite exportar relatórios com base nos dados obtidos.
+
+### Descrição do Projeto
+
+<p align="justify"> Foi elaborado um programa online para a empresa Iacit que permite automatizar o download, processamento e armazenamento simplificado dos dados meteorológicos no banco de dados. Além disso, será possível filtrar esses dados por temperatura, umidade, estações, vento, pressão atmosférica, radiação solar e precipitação, bem como visualizá-los de várias formas. Além disso, foram desenvolvidos diferentes níveis de usuários, juntamente com um painel administrativo, que permite exportar relatórios com base nos dados obtidos.
     </p>
 
 <p align="center">
