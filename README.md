@@ -2,12 +2,34 @@
 
 ## Introdução
 
-<p align="center"><img src="Projetos\imagens\Foto.jpg" alt="Sua Foto" style="border-radius: 50%;" width="150" height="150"/>
+<p align="center"><img src="Projetos\imagens\Foto (1)-fotor-20240224221937.png" alt="Sua Foto" width="150" height="150"/>
 
 
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-Olá e seja bem-vindo! Sou Michael Silva, tenho 28 anos e atuo como QA. Atualmente, sou estudante de Banco de Dados na FATEC São José dos Campos - Prof. Jessen Vidal. Meu envolvimento com a tecnologia começou durante o ensino fundamental, despertando meu interesse desde os primeiros contatos com computadores. Após concluir o ensino médio, ingressei na ETEC Professora Ilza Nascimento Pintus, onde concluí o curso técnico em informática em 2016. Após um período focado em outras áreas, retornei ao universo da tecnologia, sentindo que havia algo inacabado. Ingressei na FATEC para cursar Banco de Dados, abrindo novos horizontes. com isso a cada semestre com Api Agora, sei que minha trajetória sempre estará ligada à tecnologia.
+<body>
+
+<p align="center">Olá e seja bem-vindo!</>
+  <br>
+  <br>
+<p>Sou Michael Silva, um profissional de QA na área de qualidade, onde desempenho um papel crucial no processo de testes de cada aplicação, garantindo sua excelência e conformidade. Minha paixão pela tecnologia surgiu durante o ensino fundamental, quando tive meus primeiros contatos com computadores. Esse interesse só cresceu ao longo dos anos.</p>
+
+<p>Após concluir o ensino médio, dei um passo adiante e ingressei na ETEC Professora Ilza Nascimento Pintus, onde tive minha primeira contato com programação. Embora desafiador no início, concluí o curso técnico em 2016, consolidando minha base de conhecimento.</p>
+
+<p>Mesmo após um período dedicado a outras áreas, meu fascínio pela tecnologia permaneceu. Motivado pela sensação de que havia mais para explorar, decidi retornar ao mundo da tecnologia. Durante a pandemia, aproveitei a oportunidade para me matricular na FATEC São José dos Campos - Prof. Jessen Vidal, onde escolhi cursar Banco de Dados, ampliando ainda mais meu leque de habilidades e perspectivas.</p>
+
+<p>A cada semestre, mergulhei mais fundo no universo da programação, especialmente em APIs, onde pude atuar como Desenvolvedor, Product Owner e Scrum Master, enfrentando desafios que me permitiram adquirir uma valiosa experiência em diversas vertentes.</p>
+
+<p>Minha primeira oportunidade profissional foi marcada pelo desenvolvimento de APIs, e a bagagem adquirida ao longo dos anos destacou-se durante o processo de seleção, permitindo-me evidenciar meu compromisso e habilidades únicas no campo da tecnologia.</p>
+
+<br>
+
+<br>
 
 ### Meus principais conhecimentos
 
