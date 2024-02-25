@@ -7,7 +7,7 @@
 
 
 
-Olá e seja bem-vindo! Sou Michael Silva, tenho 28 anos e atuo como QA. Atualmente, sou estudante de Banco de Dados na FATEC São José dos Campos - Prof. Jessen Vidal. Meu envolvimento com a tecnologia começou durante o ensino fundamental, despertando meu interesse desde os primeiros contatos com computadores. Após concluir o ensino médio, ingressei na ETEC Professora Ilza Nascimento Pintus, onde concluí o curso técnico em informática em 2016. Após um período focado em outras áreas, retornei ao universo da tecnologia, sentindo que havia algo inacabado. Ingressei na FATEC para cursar Banco de Dados, abrindo novos horizontes. Agora, sei que minha trajetória sempre estará ligada à tecnologia.
+Olá e seja bem-vindo! Sou Michael Silva, tenho 28 anos e atuo como QA. Atualmente, sou estudante de Banco de Dados na FATEC São José dos Campos - Prof. Jessen Vidal. Meu envolvimento com a tecnologia começou durante o ensino fundamental, despertando meu interesse desde os primeiros contatos com computadores. Após concluir o ensino médio, ingressei na ETEC Professora Ilza Nascimento Pintus, onde concluí o curso técnico em informática em 2016. Após um período focado em outras áreas, retornei ao universo da tecnologia, sentindo que havia algo inacabado. Ingressei na FATEC para cursar Banco de Dados, abrindo novos horizontes. com isso a cada semestre com Api Agora, sei que minha trajetória sempre estará ligada à tecnologia.
 
 ### Meus principais conhecimentos
 
