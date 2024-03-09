@@ -3,6 +3,8 @@
 ### Parceiro Acadêmico
 Interno - FATEC
 
+Projetos/imagens/Captura de tela 2024-03-07 210939.png_1709856712553.png
+
 [ Shark=Cov - Shark Tech Fatec](https://github.com/heyMichaelS/Projeto-Integrador-2021-2-Grupo3)
 
 
