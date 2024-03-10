@@ -1,10 +1,12 @@
-# Portfólio Michael Silva
+<h1 align="center">Portfólio das APIs - Michael Silva</h1>
+ 
+<p align="justify"> Trabalho de Graduação na modalidade Portfólio das Aprendizagens a partir de Projeto Integrador (APIs), apresentado à Faculdade de Tecnologia de São José dos Campos, como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</>
 
-## Introdução
+
+
+<hr>
 
 <p align="center"><img src="Projetos\imagens\Foto (1)-fotor-20240224221937.png" alt="Sua Foto" width="150" height="150"/>
-
-
 
 <!DOCTYPE html>
 <html lang="en">
@@ -14,7 +16,7 @@
 
 <body>
 
-<p align="center">Olá e seja bem-vindo!</>
+<p align="center">Olá e seja bem-vindo !!!</>
   <br>
   <br>
 <p>Sou Michael Silva, um profissional de QA na área de qualidade, onde desempenho um papel crucial no processo de testes de cada aplicação, garantindo sua excelência e conformidade. Minha paixão pela tecnologia surgiu durante o ensino fundamental, quando tive meus primeiros contatos com computadores. Esse interesse só cresceu ao longo dos anos.</p>
@@ -26,10 +28,7 @@
 <p>A cada semestre, mergulhei mais fundo no universo da programação, especialmente em APIs, onde pude atuar como Desenvolvedor, Product Owner e Scrum Master, enfrentando desafios que me permitiram adquirir uma valiosa experiência em diversas vertentes.</p>
 
 <p>Minha primeira oportunidade profissional foi marcada pelo desenvolvimento de APIs, e a bagagem adquirida ao longo dos anos destacou-se durante o processo de seleção, permitindo-me evidenciar meu compromisso e habilidades únicas no campo da tecnologia.</p>
-
-<br>
-
-<br>
+<hr>
 
 ### Meus principais conhecimentos
 
@@ -46,6 +45,15 @@ Durante minha jornada acadêmica, tenho me dedicado ao uso da linguagem de progr
 O Projeto Integrador surge como uma oportunidade para abordar desafios do mundo real, apresentados por empresas em parceria com a instituição de ensino. Durante minha trajetória acadêmica, tive a oportunidade de participar de diversos projetos, nos quais apliquei os conhecimentos adquiridos ao longo da graduação.
 
 A seguir, destacam-se os projetos desenvolvidos, delineando o problema enfrentado, a solução proposta (e implementada), além dos valiosos aprendizados extraídos dessas experiências. Essa abordagem prática tem sido fundamental para consolidar e aplicar de forma eficaz os conceitos teóricos aprendidos durante meu percurso acadêmico.
+
+<hr>
+
+<div align="center">
+
+&#8226; [Linkedin](www.linkedin.com/in/heymichaels) &#8226; [GitHub](https://github.com/heyMichaelS) &#8226;
+
+</div>
+
 ### Sumário
 
 [Projeto 1 - Shark Cov](https://github.com/heyMichaelS/Portfolio-TG_BD/blob/main/Projetos/1%20Semestre.md)
