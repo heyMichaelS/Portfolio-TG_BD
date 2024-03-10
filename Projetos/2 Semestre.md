@@ -6,6 +6,10 @@
       <img src="./GIT/cabecario2.jpg" width="100%" height="100%">
 <p align="center">
 
+
+[ Fluffy - Dom Rock ](https://github.com/heyMichaelS/)
+
+<br>
 ### Visão do Projeto
 
 Desenvolver uma solução eficiente para a gestão de ativação de clientes na plataforma Dom Rock, proporcionando uma entrada de dados flexível e alocando recursos de forma inteligente. O sistema visa facilitar a entrada de parâmetros e variáveis específicas de cada cliente, estimando o consumo de recursos com base em diferentes métricas. Além disso, a plataforma busca uma base de dados robusta e bem modelada para suportar futuras integrações com outros sistemas.
