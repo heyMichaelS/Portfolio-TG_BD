@@ -10,14 +10,9 @@
     </table>
 
 A IACIT é uma empresa brasileira, fundada em 1986, e com sede em São José dos Campos (SP), um dos principais polos tecnológicos do Brasil e do mundo.
-
 São 36 anos de experiência que começaram com a prestação de suporte técnico à Tecnasa, fabricante de equipamentos para o segmento de navegação aérea. Desde então, a empresa é impulsionada pelos constantes esforços para ampliar suas referências e conquistar novos mercados.
 
-<h1>Portifólio da 3°API</h1>
-<p align="justify"> Portfólio das Aprendizagens a partir de Projeto Integrador (APIs),
-apresentado à Faculdade de Tecnologia de São José dos Campos,
-como parte dos requisitos necessários para a obtenção do título de Tecnólogo em Banco de Dados.</p>
-<hr>
+
 
 ### Descrição do Projeto
 
