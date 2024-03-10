@@ -7,7 +7,7 @@
 <p align="center">
 
 
-[ Fluffy - Dom Rock ](https://github.com/heyMichaelS/)
+[ Fluffy - Dom Rock ](https://github.com/heyMichaelS/Dom_Rock)
 
 <br>
 ### Visão do Projeto
