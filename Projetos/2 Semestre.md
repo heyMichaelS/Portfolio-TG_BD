@@ -10,6 +10,10 @@
 
 Desenvolver uma solução eficiente para a gestão de ativação de clientes na plataforma Dom Rock, proporcionando uma entrada de dados flexível e alocando recursos de forma inteligente. O sistema visa facilitar a entrada de parâmetros e variáveis específicas de cada cliente, estimando o consumo de recursos com base em diferentes métricas. Além disso, a plataforma busca uma base de dados robusta e bem modelada para suportar futuras integrações com outros sistemas.
 
+  <p align="center">
+      <img src="./GIT/prototipo.gif" width="100%" height="100%">
+  <p align="center">
+        
 ### Tecnologias Adotadas na Solução
 
 <details>
@@ -63,83 +67,41 @@ Desenvolver uma solução eficiente para a gestão de ativação de clientes na 
 
 ### Contribuições Pessoais
 
-### Telas em qual colaborei </summary>
-
-  <br>
-
-  <p align="center">
-      <img src="./GIT/prototipo.gif" width="100%" height="100%">
-  <p align="center">
+Nesse projeto com fim do meu grupo anterior chegue na parte de desenvolvimento da tela Gold do projeto onde pude contribuir nessa fase atuando na parte do JavaFX.
 
 
-  <br>
+## Registro da tela Gold
+- Desenvolvi o check box que apos escolhido bloqueva as demais opções.
 
-</details>
+- Atribui os botões de CRUD no frontent 
 
-
-<details open>
- <summary> </summary>
-
-  <br>
+- Desenvolvi também a parte de comentario que tem na tela gold.
 
 
-  <br>
+## Conexão do front com back
 
-</details>
+- Apliquei a logica recebida pela front para armagenar no bando de dados 
 
-
-
-<details open>
- <summary> </summary>
-
-  <br>
+- Desenvolvi a trava que a requisicão do front passada pelo back mantinha a cosistencia dos dados.
 
 
-  <br>
+ Sendo assim em pouco tempo consegui ter uma noção maior de conexao da aplicacao entre inputs e travas antes de passar o dado final 
+<br>
 
-</details>
+## Soft skills 
 
+### Persistencia: 
 
-<details open>
- <summary> </summary>
+- Após a desolução da minha equipe anterior tive que ter persistencia com demais novos integrantes do grupo.
 
-  <br>
+### Flexibilidade:
 
+- Demostrei flexibilidade em me adapatar a um novo grupo.
 
-  <br>
+### Trabalho em Equipe:
+- Mantive a vião geral do projeto alinha desdo começo.
 
-</details>
-
-
-<details open>
- <summary> </summary>
-
-  <br>
-
-
-  <br>
-
-</details>
-
-
-<details open>
- <summary> </summary>
-
-  <br>
-
-
-  <br>
-
-</details>
-
-### Aprendizados Efetivos (Soft e Hard Skills)
-
-
-<details open>
-
-   <summary>Soft skills:</summary>
-     
- </details>
+<br>
 
   ### Aprendizados Efetivos Hard Skills
 <table>
@@ -153,7 +115,7 @@ Desenvolver uma solução eficiente para a gestão de ativação de clientes na 
   </tr>
   <tr>
     <td>JavaFX Scene Builder 3</td>
-    <td>★★★★★★★☆☆☆</td>
+    <td>★★★★☆☆☆☆☆☆</td>
   </tr>
   <tr>
     <td>SQL Server Nuvem Azure</td>
