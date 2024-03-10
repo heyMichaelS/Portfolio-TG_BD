@@ -1,5 +1,6 @@
 # Projeto 3: 2º Semestre de 2023 
 
+## Empresa Parceira
 <html>
   <body>
      <table align ="center">
@@ -7,8 +8,6 @@
        <p align ="center"><img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-1/GIT/cabecario%20(3).jpg" width="100%" height="100%"></img></p>
      </tr>
     </table>
-
-## Empresa parceira
 
 A IACIT é uma empresa brasileira, fundada em 1986, e com sede em São José dos Campos (SP), um dos principais polos tecnológicos do Brasil e do mundo.
 
@@ -29,13 +28,15 @@ como parte dos requisitos necessários para a obtenção do título de Tecnólog
       <img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-2/GIT/VID-20221009-WA0013%20(2).gif" width="100%" height="100%">
 <p align="center">
 
-  
+
+<br>
+
 Dominar a biblioteca Chart.js e a criação de gráficos foi uma experiência técnica enriquecedora. Explorei suas funcionalidades, personalizando a aparência e adicionando interatividade. Agora sou capaz de criar visualizações de dados sofisticadas e profissionais, transmitindo informações complexas de forma clara e impactante. Essa habilidade amplia minhas capacidades como desenvolvedor, oferecendo aos usuários uma experiência excepcional de análise de dados.
 
-
+<br>
 
 <h2>Tecnologias Utilizadas</h2>
-    <details open>
+<details open>
 <summary>Front-End</summary>
 
 * JavaScript
@@ -82,172 +83,31 @@ Dominar a biblioteca Chart.js e a criação de gráficos foi uma experiência t�
 </details>
     
 
-Minha atuação como desenvolvedor do grupo Fluffy fiquei na parte do front-end onde tivemos uma missão de criar um deashbord intuitivo que fosse possivel ter a visualização de algumas formas de dados meterologicos
-<br>
+
  
 # Contribuicoes individuais
 
-<details open>
- <summary>Plotar Graficos</summary>
-  <br>
- 
-  Apresentamos abaixo um trecho de código responsável por recuperar informações geradas no banco de dados e exibi-las visualmente na forma de gráficos de linha. Essa funcionalidade permite que os dados sejam apresentados de maneira visual na tela, possibilitando uma análise prioritária de acordo com as necessidades do cliente. Com esse recurso, é possível oferecer uma experiência interativa e personalizada, permitindo que o cliente tome decisões com base nas informações apresentadas de forma clara e visualmente atraente.
-  
-  <br>
-  
-  ```
-  let tipo = ''
-
-function btnlinha(){
-    tipo = 'line'
-    gerarGrafico()
-}
-
-function btnhist(){
-    tipo = 'bar'
-    gerarGrafico()
-}
-
-
-function gerarGrafico(){
-
-    if (tipo == 'line'){ //LINHA///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
-        const ctx = document.getElementById('grafico').getContext('2d');
-        const myChart = new Chart(ctx, {
-            type: tipo,
-            data: {
-                labels: ['Red', 'Blue', 'Yellow', 'Green', 'Purple', 'Orange'],
-                datasets: [{
-                    label: '# of Votes',
-                    data: [12, 19, 3, 5, 2, 3],
-                    backgroundColor: [
-                        'rgba(255, 99, 132, 0.2)',
-                        'rgba(54, 162, 235, 0.2)',
-                        'rgba(255, 206, 86, 0.2)',
-                        'rgba(75, 192, 192, 0.2)',
-                        'rgba(153, 102, 255, 0.2)',
-                        'rgba(255, 159, 64, 0.2)'
-                    ],
-                    borderColor: [
-                        'rgba(255, 99, 132, 1)',
-                        'rgba(54, 162, 235, 1)',
-                        'rgba(255, 206, 86, 1)',
-                        'rgba(75, 192, 192, 1)',
-                        'rgba(153, 102, 255, 1)',
-                        'rgba(255, 159, 64, 1)'
-                    ],
-                    borderWidth: 1
-                }]
-            },
-            options: {
-                scales: {
-                    y: {
-                        beginAtZero: true
-                    }
-                }
-            }
-        });
-
-    }
-  
-  ```
-</details>
-
-
-<details open>
- <summary> Desenvolvi a tabela juntamente com a paginação</summary>
-  <br>
- 
-  Abaixo com esse trecho de codigo onde no front foi gerada a paginação das tabelas nesse em questão foi da tabela de precipitação onde também é decidido a quantidade de paginas que vai ter de acordo com dados que são poulados na tabela em questão.
-
-  <br> 
-  
-  ```
-  // get the table element
-var $table = document.getElementById("tabelaPrecipitacao"),
-// number of rows per page
-$n = 16,
-// number of rows of the table
-$rowCount = $table.rows.length,
-// get the first cell's tag name (in the first row)
-$firstRow = $table.rows[0].firstElementChild.tagName,
-// boolean var to check if table has a head row
-$hasHead = ($firstRow === "TH"),
-// an array to hold each row
-$tr = [],
-// loop counters, to start count from rows[1] (2nd row) if the first row has a head tag
-$i,$ii,$j = ($hasHead)?1:0,
-// holds the first row if it has a (<TH>) & nothing if (<TD>)
-$th = ($hasHead?$table.rows[(0)].outerHTML:"");
-// count the number of pages
-var $pageCount = Math.ceil($rowCount / $n);
-// if we had one page only, then we have nothing to do ..
-if ($pageCount > 1) {
-  // assign each row outHTML (tag name & innerHTML) to the array
-  for ($i = $j,$ii = 0; $i < $rowCount; $i++, $ii++)
-    $tr[$ii] = $table.rows[$i].outerHTML;
-  // create a div block to hold the buttons
-  $table.insertAdjacentHTML("afterend","<div id='buttons'></div");
-  // the first sort, default page is the first one
-  sort(1);
-}
-
-  ```
-</details>
-
-
-
-
-<details open>
- <summary>Auxilei também na exportação tanto das tabelas quanto dos graficos em pdf</summary>
-    <br>
-  
-Com base no código abaixo, apresentamos um exemplo do processo de geração de gráficos em PDF. Os parâmetros necessários para a criação de cada imagem são passados, permitindo ao cliente baixar qualquer gráfico de qualquer tela que ofereça essa funcionalidade. Isso oferece flexibilidade ao usuário, que pode escolher livremente quais gráficos deseja incluir em seu PDF.
- 
-  <br> 
-  
-  
-  ```
-  function jsGraficosPDF(chart1, chart2, tela) {
-
-    const canvas = document.getElementById(chart1);
-    const canvas2 = document.getElementById(chart2);
-
-    //criando a imagem a partir do gráfico
-    const canvasImage = canvas.toDataURL('image/png', 1);
-    const canvasImage2 = canvas2.toDataURL('image/png', 1);
-
-    //variáveis para o texto do PDF
-    var estado = document.getElementById('estado');
-    var estacao = document.getElementById('estacao');
-    var dataMin = document.getElementById('dtMin');
-    var dataMax = document.getElementById('dtMax');
-
-    //passando a imagem para o pdf
-    let pdf = new jsPDF('landscape');
-    pdf.setFontSize(24);
-    pdf.setFont('helvetica', 'bold');
-    pdf.text(15, 15, ["Estação " + estacao.innerText + ", Estado de " + estado.innerText, " "]);
-    pdf.setFont('helvetica', '');
-    pdf.text(15, 15, [" ", "Dados de " + dataMin.innerText + " até " + dataMax.innerText]);
-    pdf.addImage(canvasImage, 'PNG', 10, 35, 275, 150);
-    pdf.addPage();
-    pdf.addImage(canvasImage2, 'PNG', 10, 30, 275, 150);
-    pdf.save('Gráficos ' + tela + ' (' + estacao.innerText + ').pdf');
-
-}
-
-  
-  ```
-</details>
-
-
+Minha atuação como desenvolvedor do grupo Fluffy fiquei na parte do front-end onde tivemos uma missão de criar um deashbord intuitivo que fosse possivel ter a visualização de algumas formas de dados meterologicos
 
 <br>
 
- <details open>
+   - responsável por recuperar informações geradas no banco de dados e exibi-las visualmente na forma de gráficos de linha. Essa funcionalidade permite que os dados sejam apresentados de maneira visual na tela, possibilitando uma análise prioritária de acordo com as necessidades do cliente. Com esse recurso, é possível oferecer uma experiência interativa e personalizada, permitindo que o cliente tome decisões com base nas informações apresentadas de forma clara e visualmente atraente.
+  
 
-   <summary>Soft skills:</summary>
+## Desenvolvi a tabela juntamente com a paginação
+ 
+  - onde no front foi gerada a paginação das tabelas nesse em questão foi da tabela de precipitação onde também é decidido a quantidade de paginas que vai ter de acordo com dados que são poulados na tabela em questão.
+
+
+## Auxilei também na exportação tanto das tabelas quanto dos graficos em pdf</summary>
+
+  
+- Com base no geração de gráficos em PDF. Os parâmetros necessários para a criação de cada imagem são passados, permitindo ao cliente baixar qualquer gráfico de qualquer tela que ofereça essa funcionalidade. Isso oferece flexibilidade ao usuário, que pode escolher livremente quais gráficos deseja incluir em seu PDF.
+
+
+
+
+## Soft skills
      
    <br>
  
