@@ -9,6 +9,8 @@
 
 [ Fluffy - Dom Rock ](https://github.com/heyMichaelS/Dom_Rock)
 
+Fornece tecnologia para alta produtividade e agilidade nas decisões operacionais e estratégicas das organizações através da poderosa combinação de algoritmos de inteligência artificial, modelos complexos e arquitetura de datalake. A tecnologia foi projetada em ambiente de computação em nuvem totalmente automatizado e auto escalável para lidar com dados estruturados e não estruturados.
+
 <br>
 ### Visão do Projeto
 
