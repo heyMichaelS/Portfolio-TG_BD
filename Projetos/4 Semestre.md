@@ -2,7 +2,7 @@
 
 ### Reposiório do Projeto
 
-[Oracle - Fluffy](https://github.com/heyMichaelS/apiEmbraer4-sem)
+[Oracle - Octopus](https://github.com/heyMichaelS/apiEmbraer4-sem)
 
 ### Parceiro Acadêmico
 
