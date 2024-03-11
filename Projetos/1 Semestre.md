@@ -1,16 +1,18 @@
 # Projeto 1: 2º Semestre de 2021 
 
-### Parceiro Acadêmico
-Interno - FATEC
+### Repositorio do Projeto
 
+[Fatec - SharkTech](https://github.com/heyMichaelS/Projeto-Integrador-2021-2-Grupo3)
 
 
 <p align="center">
       <img src="./imagens/Captura de tela 2024-03-07 210939.png_1709856712553.png" width="100%" height="100%">
 <p align="center">
 
+### Parceiro Acadêmico
+Interno - FATEC
 
-[ Shark=Cov - Shark Tech Fatec](https://github.com/heyMichaelS/Projeto-Integrador-2021-2-Grupo3)
+
 
 
 ### Visão do Projeto
