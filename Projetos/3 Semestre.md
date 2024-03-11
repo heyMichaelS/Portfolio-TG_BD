@@ -31,7 +31,7 @@ Dominar a biblioteca Chart.js e a criação de gráficos foi uma experiência t�
 <br>
 
 <h2>Tecnologias Utilizadas</h2>
-<details open>
+<details>
 <summary>Front-End</summary>
 
 * JavaScript
@@ -41,32 +41,29 @@ Dominar a biblioteca Chart.js e a criação de gráficos foi uma experiência t�
 
 </details>
 
- <details open>
+ <details>
 <summary>Back-End</summary>
 
 * Java
 * Python
 * Spring boot
-
 </details>
 
-<details open>
+<details>
 <summary>Banco de Dados</summary>
 
 * PostgresSQL
-
 </details>
 
-<details open>
+<details>
 <summary>Reuniões e Comunicação</summary>
 
 * Discord
 * Whatsaap
 * Slack
-
 </details>
 
-<details open>
+<details>
 <summary>Outras Ferramentas</summary>
 
 * Github
@@ -74,7 +71,6 @@ Dominar a biblioteca Chart.js e a criação de gráficos foi uma experiência t�
 * Intellij IDE
 * Azure DevOps
 * Photoshop
-
 </details>
     
 
@@ -86,20 +82,26 @@ Minha atuação como desenvolvedor do grupo Fluffy fiquei na parte do front-end 
 
 <br>
 
-   - responsável por recuperar informações geradas no banco de dados e exibi-las visualmente na forma de gráficos de linha. Essa funcionalidade permite que os dados sejam apresentados de maneira visual na tela, possibilitando uma análise prioritária de acordo com as necessidades do cliente. Com esse recurso, é possível oferecer uma experiência interativa e personalizada, permitindo que o cliente tome decisões com base nas informações apresentadas de forma clara e visualmente atraente.
-  
+### Recuperação e Visualização de Dados
 
-## Desenvolvi a tabela juntamente com a paginação
- 
-  - onde no front foi gerada a paginação das tabelas nesse em questão foi da tabela de precipitação onde também é decidido a quantidade de paginas que vai ter de acordo com dados que são poulados na tabela em questão.
+  - Recuperar informações geradas no banco de dados.
+  - Exibir visualmente na forma de gráficos de linha.
+  - Permitir uma análise prioritária de acordo com as necessidades do cliente.
+  - Oferecer uma experiência interativa e personalizada.
+  - Permitir que o cliente tome decisões com base nas informações apresentadas de forma clara e visualmente atraente.
+
+ ### Paginação de Tabelas
+
+  - Especificamente, implementar a paginação da tabela de precipitação.
+  - Decidir a quantidade de páginas com base nos dados populados na tabela.
 
 
-## Auxilei também na exportação tanto das tabelas quanto dos graficos em pdf</summary>
 
-  
-- Com base no geração de gráficos em PDF. Os parâmetros necessários para a criação de cada imagem são passados, permitindo ao cliente baixar qualquer gráfico de qualquer tela que ofereça essa funcionalidade. Isso oferece flexibilidade ao usuário, que pode escolher livremente quais gráficos deseja incluir em seu PDF.
+### Exportação para PDF de Tabelas e Gráficos
 
-
+  - Auxiliar na exportação tanto das tabelas quanto dos gráficos em PDF.
+  - Permitir ao cliente baixar qualquer gráfico de qualquer tela que ofereça essa funcionalidade.
+  - Passar os parâmetros necessários para a criação de cada imagem, oferecendo flexibilidade ao usuário para escolher quais gráficos incluir no PDF.
 
 
 ## Soft skills
