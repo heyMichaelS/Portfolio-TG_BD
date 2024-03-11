@@ -1,18 +1,12 @@
 # Projeto 1: 2º Semestre de 2021 
 
-### Repositório do Projeto
 
-[SharkTech-Fatec](https://github.com/heyMichaelS/Projeto-Integrador-2021-2-Grupo3)
-
+Parceiro Acadêmico
+Interno - FATEC
 
 <p align="center">
       <img src="./imagens/Captura de tela 2024-03-07 210939.png_1709856712553.png" width="100%" height="100%">
 <p align="center">
-
-### Parceiro Acadêmico
-Interno - FATEC
-
-
 
 
 ### Visão do Projeto
@@ -140,4 +134,10 @@ Durante minha participação no projeto interno realizado em colaboração com a
     
 </table>
 
+<hr>
 
+<div align="center">
+
+[Repositório do Projeto](https://github.com/heyMichaelS/Projeto-Integrador-2021-2-Grupo3)
+
+</div>
