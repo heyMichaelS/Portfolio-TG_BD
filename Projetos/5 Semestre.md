@@ -2,7 +2,7 @@
 
 ### Reposiório do Projeto
 
-[Oracle - Fluffy Fatec](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle)
+[Oracle - Fluffy](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle)
 
 # Projeto-Integrador-Oracle
 
