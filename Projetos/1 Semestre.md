@@ -24,8 +24,9 @@ Foi criado um software para computador utilizando Python com o objetivo de anali
 
 
 
-<h2>Tecnologias Utilizadas</h2>
-    <details open>
+## Tecnologias Utilizadas</h2>
+
+<details>
 <summary>Back-End</summary>
 
 * Python
@@ -33,25 +34,22 @@ Foi criado um software para computador utilizando Python com o objetivo de anali
 * Pandas
 * matplotlib.pyplot
 * Unidecode
-
 </details>
 
 
-<details open>
+<details>
 <summary>Reuniões e Comunicação</summary>
 
 * Discord
-* Whatsaap
-
+* WhatsApp
 </details>
 
-<details open>
+<details>
 <summary>Outras Ferramentas</summary>
 
 * Github
 * PyCharm
 * Figma
-
 </details>
 
 
