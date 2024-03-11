@@ -1,8 +1,8 @@
 # Projeto 1: 2º Semestre de 2021 
 
-### Repositorio do Projeto
+### Repositório do Projeto
 
-[Fatec - SharkTech](https://github.com/heyMichaelS/Projeto-Integrador-2021-2-Grupo3)
+[SharkTech-Fatec](https://github.com/heyMichaelS/Projeto-Integrador-2021-2-Grupo3)
 
 
 <p align="center">
