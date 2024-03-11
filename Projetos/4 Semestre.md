@@ -1,9 +1,5 @@
 # Projeto 4: 1º Semestre de 2023 
 
-### Reposiório do Projeto
-
-[Oracle - Octopus](https://github.com/heyMichaelS/apiEmbraer4-sem)
-
 ### Parceiro Acadêmico
 
 <p align="center">
@@ -105,7 +101,7 @@ Durante minha participação neste projeto, meu foco esteve no front-end, onde t
 
 <hr>
 
-<h1>Soft skills</h1>
+## Soft skills
 
 ### Resiliência
 
@@ -124,7 +120,7 @@ Durante minha participação neste projeto, meu foco esteve no front-end, onde t
 
 - Comprometimento com as entregas de cada tarefa para não atrapalhar o cronogramas de entregas
 
-<hr>
+<br>
 
 ### Aprendizados Efetivos Hard Skills
 <table>
@@ -149,4 +145,15 @@ Durante minha participação neste projeto, meu foco esteve no front-end, onde t
     <td>★★★☆☆☆☆☆☆☆</td>
   </tr>
 </table>
+
+<br>
+<hr>
+
+<div align="center">
+
+[Repositório do Projeto](https://github.com/heyMichaelS/apiEmbraer4-sem)
+
+</div>
+
+
   
