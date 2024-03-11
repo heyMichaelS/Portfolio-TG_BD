@@ -1,14 +1,12 @@
 # Projeto 2: 1º Semestre de 2022 
 
-### Repositório do Projeto
-
-[ Fluffy - Dom Rock ](https://github.com/heyMichaelS/Dom_Rock)
+Parceiro Acadêmico
 
 <p align="center">
       <img src="./GIT/cabecario2.jpg" width="100%" height="100%">
 <p align="center">
 
-### Parceiro Acadêmico
+
 
 
 Fornece tecnologia para alta produtividade e agilidade nas decisões operacionais e estratégicas das organizações através da poderosa combinação de algoritmos de inteligência artificial, modelos complexos e arquitetura de datalake. A tecnologia foi projetada em ambiente de computação em nuvem totalmente automatizado e auto escalável para lidar com dados estruturados e não estruturados.
@@ -136,8 +134,14 @@ Nesse projeto com fim do meu grupo anterior chegue na parte de desenvolvimento d
 </table>
 
 </details>
-  
 
+<hr>
+
+<div align="center">
+
+[Repositório do Projeto](https://github.com/heyMichaelS/Dom_Rock)
+
+</div>
 
 
 
