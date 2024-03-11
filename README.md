@@ -50,7 +50,7 @@ A seguir, destacam-se os projetos desenvolvidos, delineando o problema enfrentad
 
 <div align="center">
 
-&#8226; [Linkedin](www.linkedin.com/in/heymichaels) &#8226; [GitHub](https://github.com/heyMichaelS) &#8226;
+&#8226; [Linkedin](https://linkedin.com/in/heymichaels) &#8226; [GitHub](https://github.com/heyMichaelS) &#8226;
 
 </div>
 
