@@ -1,5 +1,8 @@
 # Projeto 4: 1º Semestre de 2023 
 
+### Reposiório do Projeto
+
+[Oracle - Fluffy](https://github.com/heyMichaelS/apiEmbraer4-sem)
 
 ### Parceiro Acadêmico
 
