@@ -1,8 +1,7 @@
 # Projeto 6: 1º Semestre de 2024
 
-### Reposiório do Projeto
 
-[Imagem - Fluffy Fatec](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem)
+
 
 ### Parceiro Acadêmico
 
@@ -68,16 +67,6 @@
 
 ### Contribuições Pessoais
 
-Na minha contribuição desempenhei o papel de Scrum Master, liderando a equipe em direção aos objetivos estabelecidos. Desde o início, trabalhei em estreita colaboração com todos os membros para estabelecer um ambiente ágil e altamente produtivo.
-
-Como parte desse papel, minha responsabilidade incluiu facilitar as diversas reuniões do Scrum, como o planejamento do sprint, a revisão do sprint e a retrospectiva. Durante essas sessões, mantive o foco nos objetivos do sprint, resolvendo prontamente quaisquer obstáculos que surgissem e incentivando a equipe a aprender e melhorar continuamente.
-
-Além disso, assumi o compromisso de garantir que a equipe seguisse os valores e práticas ágeis. Isso significava ajudar a identificar e eliminar impedimentos, promover a transparência em todas as etapas do processo e garantir que o backlog do produto fosse mantido atualizado e priorizado de forma adequada para maximizar o valor entregue.
-
-Minha abordagem proativa e compromisso com a excelência no processo contribuíram para manter a equipe focada e engajada ao longo do projeto, resultando em entregas bem-sucedidas e oportunas.
-
-
-
 ### Aprendizados Efetivos (Soft)
 
 ### Aprendizados Efetivos Hard Skills
@@ -103,3 +92,25 @@ Minha abordagem proativa e compromisso com a excelência no processo contribuír
     <td>★★★☆☆☆☆☆☆☆</td>
   </tr>
 </table>
+
+<hr>
+
+<div align="center">
+
+[Repositório do Projeto](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem)
+
+</div>
+
+
+<!-- Na minha contribuição desempenhei o papel de Scrum Master, liderando a equipe em direção aos objetivos estabelecidos. Desde o início, trabalhei em estreita <!-- colaboração com todos os membros para estabelecer um ambiente ágil e altamente produtivo.
+
+<!-- Como parte desse papel, minha responsabilidade incluiu facilitar as diversas reuniões do Scrum, como o planejamento do sprint, a revisão do sprint e a <!-- <!-- retrospectiva. Durante essas sessões, mantive o foco nos objetivos do sprint, resolvendo prontamente quaisquer obstáculos que surgissem e incentivando a <!-- <!-- equipe a aprender e melhorar continuamente.
+
+<!-- Além disso, assumi o compromisso de garantir que a equipe seguisse os valores e práticas ágeis. Isso significava ajudar a identificar e eliminar <!-- <!-- <!-- <!-- impedimentos, promover a transparência em todas as etapas do processo e garantir que o backlog do produto fosse mantido atualizado e priorizado de forma <!-- <!-- adequada para maximizar o valor entregue.
+
+<!-- Minha abordagem proativa e compromisso com a excelência no processo contribuíram para manter a equipe focada e engajada ao longo do projeto, resultando em <!-- entregas bem-sucedidas e oportunas.
+
+
+
+
+
