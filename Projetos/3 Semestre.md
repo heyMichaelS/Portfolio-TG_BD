@@ -1,6 +1,7 @@
 # Projeto 3: 2º Semestre de 2023 
 
-## Empresa Parceira
+
+<p>Empresa Parceira</p>
 <html>
   <body>
      <table align ="center">
@@ -152,4 +153,10 @@ Minha atuação como desenvolvedor do grupo Fluffy fiquei na parte do front-end 
     <td>★★★☆☆☆☆☆☆☆</td>
   </tr>
 </table>
-  
+
+<hr>
+
+
+
+
+
