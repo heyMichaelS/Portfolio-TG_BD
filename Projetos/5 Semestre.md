@@ -1,11 +1,6 @@
 # Projeto 5: 2º Semestre de 2023 
 
-### Reposiório do Projeto
-
-[Oracle - Fluffy](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle)
-
-# Projeto-Integrador-Oracle
-
+Parceiro Acadêmico
 <img src = "./imagens/imgOracleFatec_1.jpg">
 <br>
 
@@ -67,91 +62,44 @@ Neste projeto, enfrentamos o desafio de criar um painel de visualização que co
 
 Em minha contribuição para este projeto, assumi o papel de Product Owner pela primeira vez. Inicialmente, recebi o documento de requisitos fornecido pelo cliente, contendo informações detalhadas. Junto com o grupo, decidimos abordar esse desafio de maneira modular, dividindo-o em três partes distintas. A terceira parte, por sua vez, foi subdividida em duas, englobando as áreas de vendas, fornecedores, estoque e movimentação.
 
-Além disso, desempenhei um papel fundamental na criação das user stories e no desenvolvimento do product backlog. Essa fase incluiu a divisão estratégica das entregas, conforme acordado com o cliente. Durante esse processo, mantive um diálogo constante, fazendo diversas perguntas para garantir um alinhamento preciso e efetivo das expectativas e entregas.
-
-Este envolvimento ativo na definição e estruturação do projeto não apenas ampliou minha compreensão do papel do Product Owner, mas também contribuiu para a clareza e eficiência na execução do projeto como um todo.
-
-<details open>
- <summary> </summary>
-
-  <br>
+### Participação na Criação das User Stories:
+* Desempenhei um papel fundamental na criação das user stories.
+* Desenvolvi product backlog.
 
 
-  <br>
+### Divisão Estratégica das Entregas:
+* Inclui a divisão estratégica das entregas, conforme acordado com o cliente.
 
-</details>
+### Diálogo Constante para Alinhamento de Expectativas:
+* Mantive um diálogo constante durante o processo.
+* Fiz diversas perguntas para garantir um alinhamento preciso e efetivo das expectativas e entregas.
 
+### Impacto no Projeto e Ampliação de Compreensão:
+* Envolvimento ativo na definição e estruturação do projeto ampliou a compreensão do papel do Product Owner.
 
-<details open>
- <summary> </summary>
+### Contribuição para Clareza e Eficiência na Execução do Projeto:
 
-  <br>
+* Contribui para a clareza e eficiência na execução do projeto como um todo
 
+<br>
 
-  <br>
+### Soft Skills
 
-</details>
+#### Gestão do tempo
 
+- Juntamento com Scrum e equipe visamos sempre na melhor forma de entregar o produto final visando o cronograma e ajustando sempre que necessario
 
+#### Empatia
 
-<details open>
- <summary> </summary>
+- Sempre em contato com cliente e com propostas que todos do grupo consguisem entregar cada etapa aprovada, sempre visando algo de valor e a união do grupo.
 
-  <br>
+#### Resiliência
 
+- Foi um ponto focal onde pude sempre negociar cada entrega e optando por outras abordagens que fossem agregador também ao cliente do projeto.
 
-  <br>
+#### Comunicação eficaz
 
-</details>
-
-
-<details open>
- <summary> </summary>
-
-  <br>
-
-
-  <br>
-
-</details>
-
-
-<details open>
- <summary> </summary>
-
-  <br>
-
-
-  <br>
-
-</details>
-
-
-<details open>
- <summary> </summary>
-
-  <br>
-
-
-  <br>
-
-</details>
-
-
-### Aprendizados Efetivos (Soft e Hard Skills)
-
-
-<details open>
-
-   <summary>Soft skills:</summary>
-     
-
- </details>
-  
-  
-   <details open>
-
-   <summary>Hard skills:</summary>
+- Sempre claro pois a cada conversa com grupo passava a ideia ao cliente sabendo a melhor foema do mesmo concorda e tirando dúvidas sempre que surgiam
      
 ### Aprendizados Efetivos Hard Skills
 <table>
@@ -160,22 +108,32 @@ Este envolvimento ativo na definição e estruturação do projeto não apenas a
     <th width="300px">Classificação</th>
   </tr>
   <tr>
-    <td>Java</td>
-    <td>★★★★★☆☆☆☆☆</td>
-  </tr>
-  <tr>
-    <td></td>
+    <td>Git</td>
     <td>★★★★★★★☆☆☆</td>
   </tr>
   <tr>
-    <td>Vue</td>
-    <td>★★★★★☆☆☆☆☆</td>
+    <td>Jira</td>
+    <td>★★★★★★☆☆☆☆</td>
   </tr>
   <tr>
     <td>Figma</td>
-    <td>★★★☆☆☆☆☆☆☆</td>
+    <td>★★★★★★☆☆☆☆</td>
+  </tr>
+  <tr>
+    <td>Slack</td>
+    <td>★★★★★★☆☆☆☆</td>
   </tr>
 </table>
      
 </details>
-  
+
+
+<hr>
+
+<div align="center">
+
+[Repositório do Projeto](https://github.com/Fluffy-Fatec/Projeto-Integrador-Oracle)
+
+</div>
+
+
