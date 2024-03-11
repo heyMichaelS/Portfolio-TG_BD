@@ -7,6 +7,8 @@
       <img src="https://github.com/octopusBD/apiEmbraer4-sem/blob/b92089563bafd98ceac265983ccba1574dacab6e/Imagens%20documentacao/doc/inicial.png" width="100%" height="100%">
 <p align="center">
 
+Empresa brasileira, fabricante de aviões comerciais, executivos, agrícolas e militares, peças aeroespaciais, serviços e suporte na área. A empresa tem sede no município de São José dos Campos, interior do estado de São Paulo, e possui diversas unidades no Brasil e no exterior, inclusive joint ventures na China e em Portugal.
+
 
 ### Visão do Projeto
 
@@ -14,22 +16,19 @@ Atualmente, pilotos freelancers enfrentam desafios significativos na gestão de 
 
 ### Tecnologias Adotadas na Solução
 
- <details>
+<details>
 <summary>Front-End</summary>
-
+      
 * [vue](https://vuejs.org/)
 * [HTML](https://www.w3schools.com/css/)
 * [CSS](https://www.w3schools.com/css/)
-
 </details>
 
 <details>
 <summary>Back-End</summary>
-
+      
 * [Java](https://www.java.com/pt-BR/?msclkid=7faa842eb8f811ecab39772d4c1ae90b)
-
 * [Spring boot](https://spring.io/projects/spring-boot)
-
 </details>
 
 <details>
@@ -40,13 +39,10 @@ Atualmente, pilotos freelancers enfrentam desafios significativos na gestão de 
 
 <details>
 <summary>Meetings and Communication</summary>
-
+      
 * [Discord](https://discord.com/?msclkid=b4f5af84b8f811ecbd81c127a0ae68a7)
-
 * [Whatsapp](https://www.whatsapp.com/)
-
 * [Slack](https://slack.com/intl/pt-br/?msclkid=c00e628eb8f811ecaef374bb86d7f056)
-
 </details>
 
 
@@ -76,35 +72,26 @@ Em resumo, este projeto não apenas ampliou minhas habilidades no Vue.js e JavaS
 ### Aprendizados Efetivos (Soft e Hard Skills)
 
 
-
-   <summary>Soft skills:</summary>
+## Soft skills
      
-   <br>
+
  
 ` Currently, many pilots work as freelancers and do not operate just one aircraft/fleet, which makes it difficult to easily and simply recognize certain equipment and software versions installed on the aircraft. Additionally, pilots do not always have quick access to all manuals and documents for the aircraft, which impairs their knowledge about it and its capabilities.`
   
-   <br>
    
 ` Ao enfrentar desafios na reinvenção da representação gráfica, você destacou habilidades sólidas de resolução de problemas para superar obstáculos e melhorar a usabilidade da aplicação.
 Colaboração:  `
    
-   <br>
    
 ` A disposição para aprender e adaptar-se ao Vue.js e à lógica de corte da tela destaca uma mentalidade de aprendizado contínuo, uma qualidade valiosa em ambientes de tecnologia em constante evolução.
 Comunicação Efetiva   `
      
-   <br>
-   
+
 `  A capacidade de comunicar claramente os desafios enfrentados, o processo de adaptação e os resultados alcançados sugere habilidades de comunicação eficazes.
 Hard Skills:
 Vue.js   `
     
-   <br>
    
- 
- </details>
-  
-
 ### Aprendizados Efetivos Hard Skills
 <table>
   <tr>
