@@ -2,7 +2,7 @@
 
 ### Reposiório do Projeto
 
-[Imagem - Fluffy Fatec](https://github.com/Fluffy-Fatec)
+[Imagem - Fluffy Fatec](https://github.com/Fluffy-Fatec/Projeto-Integrador-Imagem)
 
 ### Parceiro Acadêmico
 
