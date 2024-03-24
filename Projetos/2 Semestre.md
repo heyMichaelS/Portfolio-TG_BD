@@ -143,5 +143,6 @@ Nesse projeto com fim do meu grupo anterior chegue na parte de desenvolvimento d
 
 </div>
 
+<img src = "imagens/Logo_Fatec.jpeg">
 
 
