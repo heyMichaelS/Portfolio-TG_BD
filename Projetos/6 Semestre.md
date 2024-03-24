@@ -101,6 +101,9 @@
 
 </div>
 
+<img src = "imagens/Logo_Fatec.jpeg">
+
+
 
 <!-- Na minha contribuição desempenhei o papel de Scrum Master, liderando a equipe em direção aos objetivos estabelecidos. Desde o início, trabalhei em estreita <!-- colaboração com todos os membros para estabelecer um ambiente ágil e altamente produtivo.
 
