@@ -103,22 +103,14 @@ Durante minha participação neste projeto, meu foco esteve no front-end, onde t
 
 ## Soft skills
 
-### Resiliência
-
-- Mesmo já trbalhando com graficos nesse desafio não foi da mesma forma que trbalhamos antes isso fez
+`Resiliência:` Mesmo já trbalhando com graficos nesse desafio não foi da mesma forma que trbalhamos antes isso fez
   com que tivessemos outra abordagem que acbou no mesmo resultado
 
-### Criatividade
+`Criatividade:` Mesmo usando componentes do VUE.js alguns pontos foram personalizados visando o projeto final.
 
-- Mesmo usando componentes do VUE.js alguns pontos foram personalizados visando o projeto final.
+`Trabalho em equipe` Sempre que pude consigui ajudar colegas de equipe com alguma atividade visando o melhor resultado.
 
-### Trabalho em equipe
-
-- Sempre que pude consigui ajudar colegas de equipe com alguma atividade visando o melhor resultado.
-
-### Gestão do tempo
-
-- Comprometimento com as entregas de cada tarefa para não atrapalhar o cronogramas de entregas
+`Gestão do tempo` Comprometimento com as entregas de cada tarefa para não atrapalhar o cronogramas de entregas
 
 <br>
 
