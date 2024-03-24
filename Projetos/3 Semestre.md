@@ -162,6 +162,7 @@ Minha atuação como desenvolvedor do grupo Fluffy fiquei na parte do front-end 
 
 </div>
 
+<img src = "imagens/Logo_Fatec.jpeg">
 
 
 
