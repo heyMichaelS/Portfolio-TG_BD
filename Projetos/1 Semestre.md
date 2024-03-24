@@ -141,3 +141,7 @@ Durante minha participação no projeto interno realizado em colaboração com a
 [Repositório do Projeto](https://github.com/heyMichaelS/Projeto-Integrador-2021-2-Grupo3)
 
 </div>
+
+
+<img src = "imagens/Logo_Fatec.jpeg">
+
