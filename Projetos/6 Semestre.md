@@ -88,13 +88,13 @@ Além disso, assumi o compromisso de garantir que a equipe seguisse os valores e
 
 ## Criação e configuração do repositório
 
-* Criei um repositorio separado para cada
+* Criei um repositório separado para cada
   * Repositorio central
   * Repositorio do frontend
   * Repositorio do backend
-  * Repositorio do classiciador(IA)
+  * Repositorio do classificador(IA)
 
-colocando em submodeulos onde cada uma funcionava de forma inpendente e no final o repositorio central obtinha todas as alterações feitas unificando todos em um unico repositorio tornando mais organizado.
+colocando em submodulos onde cada uma funcionava de forma inpendente e no final o repositorio central obtinha todas as alterações feitas unificando todos em um unico repositorio tornando mais organizado.
 
 
   
