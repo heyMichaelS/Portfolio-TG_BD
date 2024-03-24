@@ -136,4 +136,6 @@ Em minha contribuição para este projeto, assumi o papel de Product Owner pela 
 
 </div>
 
+<img src = "imagens/Logo_Fatec.jpeg">
+
 
