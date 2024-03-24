@@ -155,5 +155,5 @@ Durante minha participação neste projeto, meu foco esteve no front-end, onde t
 
 </div>
 
+<img src = "imagens/Logo_Fatec.jpeg">
 
-  
