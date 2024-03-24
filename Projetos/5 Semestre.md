@@ -85,21 +85,13 @@ Em minha contribuição para este projeto, assumi o papel de Product Owner pela 
 
 ### Soft Skills
 
-#### Gestão do tempo
+`Gestão do tempo: `Juntamento com Scrum e equipe visamos sempre na melhor forma de entregar o produto final visando o cronograma e ajustando sempre que necessario
+ 
+`Empatia: ` Sempre em contato com cliente e com propostas que todos do grupo consguisem entregar cada etapa aprovada, sempre visando algo de valor e a união do grupo.
 
-- Juntamento com Scrum e equipe visamos sempre na melhor forma de entregar o produto final visando o cronograma e ajustando sempre que necessario
+`Resiliência:` Foi um ponto focal onde pude sempre negociar cada entrega e optando por outras abordagens que fossem agregador também ao cliente do projeto.
 
-#### Empatia
-
-- Sempre em contato com cliente e com propostas que todos do grupo consguisem entregar cada etapa aprovada, sempre visando algo de valor e a união do grupo.
-
-#### Resiliência
-
-- Foi um ponto focal onde pude sempre negociar cada entrega e optando por outras abordagens que fossem agregador também ao cliente do projeto.
-
-#### Comunicação eficaz
-
-- Sempre claro pois a cada conversa com grupo passava a ideia ao cliente sabendo a melhor foema do mesmo concorda e tirando dúvidas sempre que surgiam
+`Comunicação eficaz:` Sempre claro pois a cada conversa com grupo passava a ideia ao cliente sabendo a melhor foema do mesmo concorda e tirando dúvidas sempre que surgiam
      
 ### Aprendizados Efetivos Hard Skills
 <table>
