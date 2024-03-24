@@ -12,6 +12,7 @@ Parceiro Acadêmico
 Fornece tecnologia para alta produtividade e agilidade nas decisões operacionais e estratégicas das organizações através da poderosa combinação de algoritmos de inteligência artificial, modelos complexos e arquitetura de datalake. A tecnologia foi projetada em ambiente de computação em nuvem totalmente automatizado e auto escalável para lidar com dados estruturados e não estruturados.
 
 <br>
+
 ### Visão do Projeto
 
 Desenvolver uma solução eficiente para a gestão de ativação de clientes na plataforma Dom Rock, proporcionando uma entrada de dados flexível e alocando recursos de forma inteligente. O sistema visa facilitar a entrada de parâmetros e variáveis específicas de cada cliente, estimando o consumo de recursos com base em diferentes métricas. Além disso, a plataforma busca uma base de dados robusta e bem modelada para suportar futuras integrações com outros sistemas.
@@ -96,16 +97,11 @@ Nesse projeto com fim do meu grupo anterior chegue na parte de desenvolvimento d
 
 ## Soft skills 
 
-### Persistencia: 
+`Persistencia:` Após a desolução da minha equipe anterior tive que ter persistencia com demais novos integrantes do grupo.
 
-- Após a desolução da minha equipe anterior tive que ter persistencia com demais novos integrantes do grupo.
+`Flexibilidade:` Demostrei flexibilidade em me adapatar a um novo grupo.
 
-### Flexibilidade:
-
-- Demostrei flexibilidade em me adapatar a um novo grupo.
-
-### Trabalho em Equipe:
-- Mantive a vião geral do projeto alinha desdo começo.
+`Trabalho em Equipe: `Mantive a vião geral do projeto alinha desdo começo.
 
 <br>
 
