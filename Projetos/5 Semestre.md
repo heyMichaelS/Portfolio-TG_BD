@@ -1,6 +1,7 @@
 # Projeto 5: 2º Semestre de 2023 
 
 Parceiro Acadêmico
+
 <img src = "./imagens/imgOracleFatec_1.jpg">
 <br>
 
@@ -9,6 +10,18 @@ Parceiro Acadêmico
 ### Visão do Projeto
 
 Neste projeto, enfrentamos o desafio de criar um painel de visualização que concentrasse-se nas insights de vendas, controle de estoque e fornecedores para um restaurante. O objetivo central era proporcionar uma visão holística, permitindo não apenas uma análise detalhada do presente, mas também servindo como base para previsões futuras. A busca pela harmonia entre estética e funcionalidade foi constante, visando criar uma experiência intuitiva e poderosa para a gestão estratégica do estabelecimento.
+
+<br> 
+
+<img src = "./imagens/Etapas de Desenvolvimento(5 projeto).png"  width="70%" height="70%">
+
+## Resultado Final ✅
+#### Aplicação:
+
+
+![Oracle Sprint 1](./imagens/Oracle_Sprint_1.jpg) | ![Oracle 1 Sprint 2](./imagens/Oracle_1_Sprint_2.jpg)
+---|---
+![Oracle 2 Sprint 1](./imagens/Oracle_2_Sprint_1.jpg) | ![Oracle 4 Sprint 3](./imagens/Oracle_4_Sprint_3.png)
 
 
 ### Tecnologias Adotadas na Solução
