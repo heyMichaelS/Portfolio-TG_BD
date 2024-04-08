@@ -106,7 +106,38 @@ Durante minha participação neste projeto, meu foco esteve no front-end, onde t
 
 - Ajustei a aplicação para que a mesma se comprtasse de maneira ajustada em diferentes tamanhos de telas 
 
-<hr>
+<br>
+
+### Aprendizados Efetivos Hard Skills
+<table>
+  <tr>
+    <th width="200px">Tecnologia/Metodologia</th>
+    <th width="200px">Classificação</th>
+    <th width="200px">Nível de proficiência</th>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>★★★★★★☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
+  </tr>
+  <tr>
+    <td>SpringBoot</td>
+    <td>★★★★★★☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
+  </tr>
+  <tr>
+    <td>Vue</td>
+    <td>★★★★★★★☆☆☆</td>
+    <td>Competente</td>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>★★★★★☆☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
+  </tr>
+</table>
+
+<br>
 
 ## Soft skills
 
@@ -121,29 +152,6 @@ Durante minha participação neste projeto, meu foco esteve no front-end, onde t
 
 <br>
 
-### Aprendizados Efetivos Hard Skills
-<table>
-  <tr>
-    <th width="300px">Tecnologia/Metodologia</th>
-    <th width="300px">Classificação</th>
-  </tr>
-  <tr>
-    <td>Java</td>
-    <td>★★★★★☆☆☆☆☆</td>
-  </tr>
-  <tr>
-    <td>SpringBoot</td>
-    <td>★★★★★☆☆☆☆☆</td>
-  </tr>
-  <tr>
-    <td>Vue</td>
-    <td>★★★★★★★☆☆☆</td>
-  </tr>
-  <tr>
-    <td>Figma</td>
-    <td>★★★☆☆☆☆☆☆☆</td>
-  </tr>
-</table>
 
 <br>
 <hr>
