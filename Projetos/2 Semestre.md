@@ -98,6 +98,39 @@ Nesse projeto com fim do meu grupo anterior chegue na parte de desenvolvimento d
 
 
  Sendo assim em pouco tempo consegui ter uma noção maior de conexao da aplicacao entre inputs e travas antes de passar o dado final 
+
+<br>
+
+  ### Aprendizados Efetivos Hard Skills
+<table>
+  <tr>
+    <th width="200px">Tecnologia/Metodologia</th>
+    <th width="200px">Classificação</th>  
+    <th>Nível de proficiência</th>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>★★★★★☆☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
+  </tr>
+  <tr>
+    <td>JavaFX Scene Builder 3</td>
+    <td>★★★★☆☆☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
+  </tr>
+  <tr>
+    <td>SQL Server Nuvem Azure</td>
+    <td>★★★★☆☆☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>    
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>★★★★☆☆☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
+  </tr>
+</table>
+
+
 <br>
 
 ## Soft skills 
@@ -110,31 +143,9 @@ Nesse projeto com fim do meu grupo anterior chegue na parte de desenvolvimento d
 
 <br>
 
-  ### Aprendizados Efetivos Hard Skills
-<table>
-  <tr>
-    <th width="300px">Tecnologia/Metodologia</th>
-    <th width="300px">Classificação</th>
-  </tr>
-  <tr>
-    <td>Java</td>
-    <td>★★★★★☆☆☆☆☆</td>
-  </tr>
-  <tr>
-    <td>JavaFX Scene Builder 3</td>
-    <td>★★★★☆☆☆☆☆☆</td>
-  </tr>
-  <tr>
-    <td>SQL Server Nuvem Azure</td>
-    <td>★★★★★☆☆☆☆☆</td>
-  </tr>
-  <tr>
-    <td>Figma</td>
-    <td>★★★☆☆☆☆☆☆☆</td>
-  </tr>
-</table>
 
-</details>
+
+
 
 <hr>
 
