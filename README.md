@@ -58,6 +58,8 @@
   </a>
 </p>
 
+## Domínio Técnico 💻
+
 #### Python
 
 Em Python, minha experiência inclui construção e consumo de APIs, desenvolvimento de serviços, manipulação de dados e interação eficiente com bancos de dados. Na área de testes, atuo em Quality Assurance (QA), Behavior Driven Development (BDD) e Test Driven Development (TDD), utilizando pytest, unittest e Selenium para garantir qualidade e eficiência no desenvolvimento, com foco em cobertura de testes e automação. Este trabalho destaca a integração prática de Python com bancos de dados, enfatizando a importância dos testes. O estudo de caso real evidencia a aplicação desses conhecimentos, visando contribuir para a compreensão e aplicação efetiva dessa integração no ambiente acadêmico e profissional.
@@ -72,7 +74,7 @@ Durante minha imersão nos projetos integradores, mergulhei fundo na complexa st
 
 #### Projetos durante a graduação
 
-O Projeto Integrador surge como uma oportunidade para abordar desafios do mundo real, apresentados por empresas em parceria com a instituição de ensino. Durante minha trajetória acadêmica, tive a oportunidade de participar de diversos projetos, nos quais apliquei os conhecimentos adquiridos ao longo da graduação.
+O Projeto Integrador surge como uma oportunidade para abordar desafios do mundo real, apresentados por empresas em parceria com a instituição de ensino. Durante minha trajetória acadêmica, tive a oportunidade de participar de diversos projetos sendo 1 projeto interno (FATEC) e 5 empresas , nos quais apliquei os conhecimentos adquiridos ao longo da graduação.
 
 A seguir, destacam-se os projetos desenvolvidos, delineando o problema enfrentado, a solução proposta (e implementada), além dos valiosos aprendizados extraídos dessas experiências. Essa abordagem prática tem sido fundamental para consolidar e aplicar de forma eficaz os conceitos teóricos aprendidos durante meu percurso acadêmico.
 
