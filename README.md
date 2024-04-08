@@ -80,6 +80,22 @@ A seguir, destacam-se os projetos desenvolvidos, delineando o problema enfrentad
 
 <hr>
 
+
+### Sumário
+
+[Projeto 1 - Shark Cov](https://github.com/heyMichaelS/Portfolio-TG_BD/blob/main/Projetos/1%20Semestre.md)
+
+[Projeto 2 - Dom Rock](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/2%20Semestre.md)
+
+[Projeto 3 - Iacit](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/3%20Semestre.md)
+
+[Projeto 4 - Embraer](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/4%20Semestre.md)
+
+[Projeto 5 - Oracle](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/5%20Semestre.md)
+
+[Projeto 6 - Imagem](https://github.com/heyMichaelS/Portfolio-TG_BD/blob/main/Projetos/6%20Semestre.md)
+
+
 <div align="center">
 
 ## Contatos:
@@ -95,16 +111,3 @@ A seguir, destacam-se os projetos desenvolvidos, delineando o problema enfrentad
 
 </div>
 
-### Sumário
-
-[Projeto 1 - Shark Cov](https://github.com/heyMichaelS/Portfolio-TG_BD/blob/main/Projetos/1%20Semestre.md)
-
-[Projeto 2 - Dom Rock](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/2%20Semestre.md)
-
-[Projeto 3 - Iacit](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/3%20Semestre.md)
-
-[Projeto 4 - Embraer](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/4%20Semestre.md)
-
-[Projeto 5 - Oracle](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/5%20Semestre.md)
-
-[Projeto 6 - Imagem](https://github.com/heyMichaelS/Portfolio-TG_BD/blob/main/Projetos/6%20Semestre.md)
