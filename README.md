@@ -30,7 +30,33 @@
 <p>Minha primeira oportunidade profissional foi marcada pelo desenvolvimento de APIs, e a bagagem adquirida ao longo dos anos destacou-se durante o processo de seleção, permitindo-me evidenciar meu compromisso e habilidades únicas no campo da tecnologia.</p>
 <hr>
 
+<p>💻 Cursos </p> 
+  
+| Curso     | Plataforma        |
+|-----------|-------------------|
+| [GIT e GitHub](https://www.cursoemvideo.com/certificates/certificado/?course_id=41356&cert-nonce=b6e44eeb04) | [Curso em Video](https://www.cursoemvideo.com/) |
+| [JavaScript](https://www.cursoemvideo.com/certificates/certificado/?course_id=27745&cert-nonce=88a4d75633) | [Curso em Video](https://www.cursoemvideo.com/)|
+| [Rede de Computadores](https://www.cursoemvideo.com/certificates/certificado/?course_id=27563&cert-nonce=41185cd469)| [Curso em Video](https://www.cursoemvideo.com/)|
+| [Python 3 Mundo 1](https://www.cursoemvideo.com/certificates/certificado/?course_id=26338&cert-nonce=3a4c0452ab)| [Curso em Video](https://www.cursoemvideo.com/)|
+| [Hardware](https://www.cursoemvideo.com/certificates/certificado/?course_id=26134&cert-nonce=c5896cc8cc)| [Curso em Video](https://www.cursoemvideo.com/)|
+| [MySQL](https://www.cursoemvideo.com/certificates/certificado/?course_id=25971&cert-nonce=67f0544dee)| [Curso em Video](https://www.cursoemvideo.com/)|
+| [Java POO](https://www.cursoemvideo.com/certificates/certificado/?course_id=25971&cert-nonce=67f0544dee)| [Curso em Video](https://www.cursoemvideo.com/)|
+| [Java Basico](https://www.cursoemvideo.com/certificates/certificado/?course_id=25487&cert-nonce=bdf9d21082)| [Curso em Video](https://www.cursoemvideo.com/)|
+| [Algoritmo](https://www.cursoemvideo.com/certificates/certificado/?course_id=25239&cert-nonce=541e9ef6a3)| [Curso em Video](https://www.cursoemvideo.com/)|
+| [Introdução MongoDB](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/d83d4bb5-99af-4ccc-baac-fa2d492b2b3e-michael-felipe-6cf29119-ed13-4e79-8a3b-d4506d29732a-certificate.pdf)|[Learn MongoDB](https://learn.mongodb.com/)|
+|[MongoDB com Python](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/d83d4bb5-99af-4ccc-baac-fa2d492b2b3e-michael-felipe-056798d2-21a4-41c0-a181-19770090028a-certificate.pdf)| [Learn MongoDB](https://learn.mongodb.com/)|
+|[Redes](https://drive.google.com/drive/my-drive)|[Cisco Networkin Academy](https://www.netacad.com/pt-br/courses/networking)|
+|[Programa de Garantia de Qualidade de Software PqTec QA](https://drive.google.com/drive/my-drive)|[BestCode](https://www.bestcode.com.br/index.php)|
+|[Scrum Fundamentals Certified](https://drive.google.com/drive/folders/1-Sy7yEqHDrbUAOQYcNrRYQqjQ1QzKaCs)|[Scrumstudy](https://www.scrumstudy.com/portuguese)| 
+
+
 ### Meus principais conhecimentos
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,css,vim,eclipse,githubactions,gherkin,idea,java,js,html,css,linux,md,materialui,mongodb,mysql,nodejs,npm,postgres,postman,py,react,spring,selenium,vite,vscode,vue,vuetify,figma," />
+  </a>
+</p>
 
 #### Python
 
@@ -50,7 +76,16 @@ A seguir, destacam-se os projetos desenvolvidos, delineando o problema enfrentad
 
 <div align="center">
 
-&#8226; [Linkedin](https://linkedin.com/in/heymichaels) &#8226; [GitHub](https://github.com/heyMichaelS) &#8226;
+## Contatos:
+
+<div>
+<a href = "https://github.com/heyMichaelS"><img loading="lazy" src= "https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"  target="_blank"></a>
+<a href = "https://linkedin.com/in/heymichaels" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href = "michaelfelipe180@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://www.instagram.com/michaeeltyr/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+ 
+</div>
 
 </div>
 
