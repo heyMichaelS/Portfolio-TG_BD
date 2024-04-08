@@ -13,6 +13,24 @@ Empresa brasileira, fabricante de aviões comerciais, executivos, agrícolas e m
 
 Atualmente, pilotos freelancers enfrentam desafios significativos na gestão de suas aeronaves, pois operam diversas aeronaves e nem sempre têm acesso fácil às informações cruciais sobre equipamentos, versões de software e documentação técnica. A falta de acesso rápido a manuais e documentos também impacta negativamente o conhecimento dos pilotos sobre suas aeronaves e suas capacidades.
 
+<br>
+
+<img src="./imagens/Etapas de Desenvolvimento(4 projeto).png" width="70%" height="70%">
+
+
+## Resultado Final ✅
+#### Aplicação:
+
+<p align="center">
+      <img src="https://raw.githubusercontent.com/octopusBD/apiEmbraer4-sem/Sprint-4/Imagens%20documentacao/doc/dispositivos1.png" width="100%" height="100%">
+<p align="center">
+
+<p align="center">
+      <img src="https://raw.githubusercontent.com/octopusBD/apiEmbraer4-sem/Sprint-4/Imagens%20documentacao/doc/gifSprint4.gif" width="100%" height="100%">
+<p align="center">
+
+<br>
+
 ### Tecnologias Adotadas na Solução
 
 <details>
@@ -43,17 +61,6 @@ Atualmente, pilotos freelancers enfrentam desafios significativos na gestão de 
 * [Whatsapp](https://www.whatsapp.com/)
 * [Slack](https://slack.com/intl/pt-br/?msclkid=c00e628eb8f811ecaef374bb86d7f056)
 </details>
-
-<br>
-<br>
-
-<p align="center">
-      <img src="https://raw.githubusercontent.com/octopusBD/apiEmbraer4-sem/Sprint-4/Imagens%20documentacao/doc/dispositivos1.png" width="100%" height="100%">
-<p align="center">
-
-<p align="center">
-      <img src="https://raw.githubusercontent.com/octopusBD/apiEmbraer4-sem/Sprint-4/Imagens%20documentacao/doc/gifSprint4.gif" width="100%" height="100%">
-<p align="center">
 
 <br>
 <br>
