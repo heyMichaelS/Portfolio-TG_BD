@@ -17,6 +17,11 @@ Fornece tecnologia para alta produtividade e agilidade nas decisões operacionai
 
 Desenvolver uma solução eficiente para a gestão de ativação de clientes na plataforma Dom Rock, proporcionando uma entrada de dados flexível e alocando recursos de forma inteligente. O sistema visa facilitar a entrada de parâmetros e variáveis específicas de cada cliente, estimando o consumo de recursos com base em diferentes métricas. Além disso, a plataforma busca uma base de dados robusta e bem modelada para suportar futuras integrações com outros sistemas.
 
+<br>
+<img src="./imagens/Etapas de Desenvolvimento(2 projeto).png" width="70%" height="70%">
+
+## Resultado Final ✅
+#### Aplicação:
   <p align="center">
       <img src="./GIT/prototipo.gif" width="100%" height="100%">
   <p align="center">
