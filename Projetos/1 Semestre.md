@@ -86,6 +86,50 @@ Durante minha participação no projeto interno realizado em colaboração com a
  - Essas contribuições refletem meu compromisso e habilidades no desenvolvimento deste projeto, destacando minha capacidade técnica e colaborativa na análise de dados da COVID-19 para a faculdade.
 
 
+<br>
+
+### Aprendizados Efetivos Hard Skills
+<table>
+  <tr>
+    <th width="300px">Tecnologia/Metodologia</th>
+    <th width="300px">Classificação</th>
+    <th width="300px">Nível de proficiência</th>
+  </tr>
+  <tr>
+    <td>Python</td>
+    <td>★★★★★☆☆☆☆☆</td>
+    <td>>Sei fazer com ajuda</td>
+  </tr>
+  <tr>
+    <td>Pandas</td>
+    <td>★★★☆☆☆☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
+  </tr>
+  <tr>
+    <td>Jupyter Notebook</td>
+    <td>★★★☆☆☆☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
+  </tr>
+  <tr>
+    <td>matplotlib.pyplot</td>
+    <td>★★★☆☆☆☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
+  </tr>
+   <tr>
+    <td>Unidecode</td>
+    <td>★★★☆☆☆☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
+   </tr>
+    <tr>
+    <td>Github</td>
+    <td>★★★☆☆☆☆☆☆☆</td>
+    <td>Competente</td>
+   </tr>
+</table>
+
+
+<br>
+
 ### Soft skills
 
  `Comunicação eficaz:` A participação no projeto envolveu a comunicação com a equipe, expressando ideias de maneira clara no desenvolvimento do programa e na apresentação do projeto.
@@ -105,39 +149,6 @@ Durante minha participação no projeto interno realizado em colaboração com a
     
    <br>
    
-### Aprendizados Efetivos Hard Skills
-<table>
-  <tr>
-    <th width="300px">Tecnologia/Metodologia</th>
-    <th width="300px">Classificação</th>
-  </tr>
-  <tr>
-    <td>Python</td>
-    <td>★★★★★☆☆☆☆☆</td>
-  </tr>
-  <tr>
-    <td>Pandas</td>
-    <td>★★★☆☆☆☆☆☆☆</td>
-  </tr>
-  <tr>
-    <td>Jupyter Notebook</td>
-    <td>★★★☆☆☆☆☆☆☆</td>
-  </tr>
-  <tr>
-    <td>matplotlib.pyplot</td>
-    <td>★★★☆☆☆☆☆☆☆</td>
-  </tr>
-   <tr>
-    <td>Unidecode</td>
-    <td>★★★☆☆☆☆☆☆☆</td>
-   </tr>
-    <tr>
-    <td>Github</td>
-    <td>★★★☆☆☆☆☆☆☆</td>
-   </tr>
-   
-    
-</table>
 
 <hr>
 
