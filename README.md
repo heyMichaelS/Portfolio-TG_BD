@@ -46,8 +46,8 @@
 | [Introdução MongoDB](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/d83d4bb5-99af-4ccc-baac-fa2d492b2b3e-michael-felipe-6cf29119-ed13-4e79-8a3b-d4506d29732a-certificate.pdf)|[Learn MongoDB](https://learn.mongodb.com/)|
 |[MongoDB com Python](https://ti-user-certificates.s3.amazonaws.com/ae62dcd7-abdc-4e90-a570-83eccba49043/d83d4bb5-99af-4ccc-baac-fa2d492b2b3e-michael-felipe-056798d2-21a4-41c0-a181-19770090028a-certificate.pdf)| [Learn MongoDB](https://learn.mongodb.com/)|
 |[Redes](https://drive.google.com/drive/my-drive)|[Cisco Networkin Academy](https://www.netacad.com/pt-br/courses/networking)|
-|[Programa de Garantia de Qualidade de Software PqTec QA](https://drive.google.com/drive/my-drive)|[BestCode](https://www.bestcode.com.br/index.php)|
-|[Scrum Fundamentals Certified](https://drive.google.com/drive/folders/1-Sy7yEqHDrbUAOQYcNrRYQqjQ1QzKaCs)|[Scrumstudy](https://www.scrumstudy.com/portuguese)| 
+|[Programa de Garantia de Qualidade de Software PqTec QA](https://drive.google.com/file/d/1SmobBXUfZyalBLV8UBYD8pUaPbPxxm25/view)|[BestCode](https://www.bestcode.com.br/index.php)|
+|[Scrum Fundamentals Certified](https://drive.google.com/file/d/1Gr_moIaOy5UgVHdJ7_lQIO0k4dwF1uKk/view)|[Scrumstudy](https://www.scrumstudy.com/portuguese)| 
 
 
 ### Meus principais conhecimentos 🚀
