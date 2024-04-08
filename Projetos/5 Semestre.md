@@ -114,19 +114,19 @@ Em minha contribuição para este projeto, assumi o papel de Product Owner pela 
   </tr>
   <tr>
     <td>Git</td>
-    <td>★★★★★★★☆☆☆</td>
+    <td>★★★★★★★★☆☆</td>
   </tr>
   <tr>
     <td>Jira</td>
-    <td>★★★★★★☆☆☆☆</td>
+    <td>★★★★★★★☆☆☆</td>
   </tr>
   <tr>
     <td>Figma</td>
-    <td>★★★★★★☆☆☆☆</td>
+    <td>★★★★★★★☆☆</td>
   </tr>
   <tr>
     <td>Slack</td>
-    <td>★★★★★★☆☆☆☆</td>
+    <td>★★★★★★★☆☆☆</td>
   </tr>
 </table>
      
