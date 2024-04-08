@@ -30,7 +30,7 @@
 <p>Minha primeira oportunidade profissional foi marcada pelo desenvolvimento de APIs, e a bagagem adquirida ao longo dos anos destacou-se durante o processo de seleção, permitindo-me evidenciar meu compromisso e habilidades únicas no campo da tecnologia.</p>
 <hr>
 
-<p>💻 Cursos </p> 
+<p>Cursos 💻 </p> 
   
 | Curso     | Plataforma        |
 |-----------|-------------------|
@@ -50,8 +50,8 @@
 |[Scrum Fundamentals Certified](https://drive.google.com/drive/folders/1-Sy7yEqHDrbUAOQYcNrRYQqjQ1QzKaCs)|[Scrumstudy](https://www.scrumstudy.com/portuguese)| 
 
 
-### Meus principais conhecimentos
-
+### Meus principais conhecimentos 🚀
+<hr>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,css,vim,eclipse,githubactions,gherkin,idea,java,js,html,css,linux,md,materialui,mongodb,mysql,nodejs,npm,postgres,postman,py,react,spring,selenium,vite,vscode,vue,vuetify,figma," />
@@ -65,6 +65,10 @@ Em Python, minha experiência inclui construção e consumo de APIs, desenvolvim
 #### Java
 
 Durante minha jornada acadêmica, tenho me dedicado ao uso da linguagem de programação Java. Ao desenvolver aplicações e trabalhar com testes usando JUnit, venho aprimorando meu conhecimento. Embora já tenha construído diversas soluções em Java, estou constantemente em busca de aprendizado contínuo. Essa experiência me proporciona uma compreensão sólida da linguagem, mas reconheço que há sempre espaço para aprimoramento. A busca constante pelo conhecimento é um elemento fundamental no meu percurso, contribuindo para elevar a qualidade e diversidade das soluções que desenvolvo.
+
+#### JavaScript (VUE,React.js)
+
+Durante minha imersão nos projetos integradores, mergulhei fundo na complexa stacks do Vue.js e do React.js, dois pilares fundamentais do desenvolvimento frontend contemporâneo. Navegar habilmente entre esses dois poderosos frameworks não só ampliou meu acervo técnico, mas também aprofundou minha compreensão das complexidades do desenvolvimento de interfaces de usuário. Aprender Vue.js e React.js não apenas expandiu meu conjunto de habilidades, mas também solidificou minha base técnica. Estou ansioso para continuar explorando essas plataformas e desvendar as infinitas possibilidades que elas oferecem. O futuro se apresenta promissor, repleto de oportunidades para aprimorar minhas competências e consolidar meu domínio no vasto campo do desenvolvimento web.
 
 #### Projetos durante a graduação
 
