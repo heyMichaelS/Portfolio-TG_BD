@@ -14,11 +14,16 @@ Interno - FATEC
 
 Foi criado um software para computador utilizando Python com o objetivo de analisar e apresentar informações sobre a COVID-19 no estado de São Paulo. O programa foi projetado para coletar, processar e exibir dados da pandemia de forma detalhada, utilizando diferentes formas de visualização. O foco principal foi na manipulação de dados em formato CSV sem depender fortemente de APIs externas ou relatórios de fontes governamentais online, garantindo uma funcionalidade offline robusta.
 
+<br>
+
+<img src= "./imagens/Etapas de Desenvolvimento.png" width="60%" height="60%">
+
+## Resultado Final ✅
+#### Aplicação:
+
 <p align="center">
       <img src="./imagens/Shark_Tech.png" width="100%" height="100%">
 <p align="center">
-
-
 
 ## Tecnologias Utilizadas</h2>
 
