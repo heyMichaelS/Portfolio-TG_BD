@@ -24,6 +24,33 @@ Neste projeto, enfrentamos o desafio de criar um painel de visualização que co
 ![Oracle 2 Sprint 1](./imagens/Oracle_2_Sprint_1.jpg) | ![Oracle 4 Sprint 3](./imagens/Oracle_4_Sprint_3.png)
 
 
+
+
+### Contribuições Pessoais
+
+Em minha contribuição para este projeto, assumi o papel de Product Owner pela primeira vez. Inicialmente, recebi o documento de requisitos fornecido pelo cliente, contendo informações detalhadas. Junto com o grupo, decidimos abordar esse desafio de maneira modular, dividindo-o em três partes distintas. A terceira parte, por sua vez, foi subdividida em duas, englobando as áreas de vendas, fornecedores, estoque e movimentação.
+
+### Participação na Criação das User Stories:
+* Desempenhei um papel fundamental na criação das user stories.
+* Desenvolvi product backlog.
+
+
+### Divisão Estratégica das Entregas:
+* Inclui a divisão estratégica das entregas, conforme acordado com o cliente.
+
+### Diálogo Constante para Alinhamento de Expectativas:
+* Mantive um diálogo constante durante o processo.
+* Fiz diversas perguntas para garantir um alinhamento preciso e efetivo das expectativas e entregas.
+
+### Impacto no Projeto e Ampliação de Compreensão:
+* Envolvimento ativo na definição e estruturação do projeto ampliou a compreensão do papel do Product Owner.
+
+### Contribuição para Clareza e Eficiência na Execução do Projeto:
+
+* Contribui para a clareza e eficiência na execução do projeto como um todo
+
+<br>
+
 ### Tecnologias Adotadas na Solução
 
   <details>
@@ -70,29 +97,36 @@ Neste projeto, enfrentamos o desafio de criar um painel de visualização que co
 
 </details>
 
+<br>
 
-### Contribuições Pessoais
-
-Em minha contribuição para este projeto, assumi o papel de Product Owner pela primeira vez. Inicialmente, recebi o documento de requisitos fornecido pelo cliente, contendo informações detalhadas. Junto com o grupo, decidimos abordar esse desafio de maneira modular, dividindo-o em três partes distintas. A terceira parte, por sua vez, foi subdividida em duas, englobando as áreas de vendas, fornecedores, estoque e movimentação.
-
-### Participação na Criação das User Stories:
-* Desempenhei um papel fundamental na criação das user stories.
-* Desenvolvi product backlog.
-
-
-### Divisão Estratégica das Entregas:
-* Inclui a divisão estratégica das entregas, conforme acordado com o cliente.
-
-### Diálogo Constante para Alinhamento de Expectativas:
-* Mantive um diálogo constante durante o processo.
-* Fiz diversas perguntas para garantir um alinhamento preciso e efetivo das expectativas e entregas.
-
-### Impacto no Projeto e Ampliação de Compreensão:
-* Envolvimento ativo na definição e estruturação do projeto ampliou a compreensão do papel do Product Owner.
-
-### Contribuição para Clareza e Eficiência na Execução do Projeto:
-
-* Contribui para a clareza e eficiência na execução do projeto como um todo
+### Aprendizados Efetivos Hard Skills
+<table>
+  <tr>
+    <th width="200px">Tecnologia/Metodologia</th>
+    <th width="200px">Classificação</th>
+    <th width="200px"> Nível de proficiência</th>
+  </tr>
+  <tr>
+    <td>Git</td>
+    <td>★★★★★★★★☆☆</td>
+    <td>Competente</td>
+  </tr>
+  <tr>
+    <td>Jira</td>
+    <td>★★★★★★★☆☆☆</td>
+    <td>Competente</td>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>★★★★★★☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
+  </tr>
+  <tr>
+    <td>Slack</td>
+    <td>★★★★★★★★☆☆</td>
+    <td> Competente</td>
+  </tr>
+</table>
 
 <br>
 
@@ -106,31 +140,6 @@ Em minha contribuição para este projeto, assumi o papel de Product Owner pela 
 
 `Comunicação eficaz:` Sempre claro pois a cada conversa com grupo passava a ideia ao cliente sabendo a melhor foema do mesmo concorda e tirando dúvidas sempre que surgiam
      
-### Aprendizados Efetivos Hard Skills
-<table>
-  <tr>
-    <th width="300px">Tecnologia/Metodologia</th>
-    <th width="300px">Classificação</th>
-  </tr>
-  <tr>
-    <td>Git</td>
-    <td>★★★★★★★★☆☆</td>
-  </tr>
-  <tr>
-    <td>Jira</td>
-    <td>★★★★★★★☆☆☆</td>
-  </tr>
-  <tr>
-    <td>Figma</td>
-    <td>★★★★★★★☆☆</td>
-  </tr>
-  <tr>
-    <td>Slack</td>
-    <td>★★★★★★★☆☆☆</td>
-  </tr>
-</table>
-     
-</details>
 
 
 <hr>
