@@ -138,7 +138,7 @@ Minha atuação como desenvolvedor do grupo Fluffy fiquei na parte do front-end 
   </tr>
   <tr>
     <td>Java</td>
-    <td>★★★★★☆☆☆☆☆</td>
+    <td>★★★★★★★☆☆☆</td>
   </tr>
   <tr>
     <td>Chart.js</td>
@@ -146,11 +146,11 @@ Minha atuação como desenvolvedor do grupo Fluffy fiquei na parte do front-end 
   </tr>
   <tr>
     <td>Vue</td>
-    <td>★★★★★☆☆☆☆☆</td>
+    <td>★★★★★★★☆☆☆</td>
   </tr>
   <tr>
     <td>Figma</td>
-    <td>★★★☆☆☆☆☆☆☆</td>
+    <td>★★★★★★☆☆☆☆</td>
   </tr>
 </table>
 
