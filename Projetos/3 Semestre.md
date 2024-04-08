@@ -20,6 +20,12 @@ São 36 anos de experiência que começaram com a prestação de suporte técnic
 <p align="justify"> Foi elaborado um programa online para a empresa Iacit que permite automatizar o download, processamento e armazenamento simplificado dos dados meteorológicos no banco de dados. Além disso, será possível filtrar esses dados por temperatura, umidade, estações, vento, pressão atmosférica, radiação solar e precipitação, bem como visualizá-los de várias formas. Além disso, foram desenvolvidos diferentes níveis de usuários, juntamente com um painel administrativo, que permite exportar relatórios com base nos dados obtidos.
     </p>
 
+<br>
+
+<img src= "./imagens/Etapas de Desenvolvimento(3 projeto).png"  width="70%" height="70%">
+
+## Resultado Final ✅
+#### Aplicação:
 <p align="center">
       <img src="https://github.com/fluffyfatec/Iacit/blob/Sprint-2/GIT/VID-20221009-WA0013%20(2).gif" width="100%" height="100%">
 <p align="center">
