@@ -83,7 +83,7 @@ Dominar a biblioteca Chart.js e a criação de gráficos foi uma experiência t�
 
 
  
-# Contribuicoes individuais
+## Contribuicoes individuais
 
 Minha atuação como desenvolvedor do grupo Fluffy fiquei na parte do front-end onde tivemos uma missão de criar um deashbord intuitivo que fosse possivel ter a visualização de algumas formas de dados meterologicos
 
@@ -110,6 +110,39 @@ Minha atuação como desenvolvedor do grupo Fluffy fiquei na parte do front-end 
   - Permitir ao cliente baixar qualquer gráfico de qualquer tela que ofereça essa funcionalidade.
   - Passar os parâmetros necessários para a criação de cada imagem, oferecendo flexibilidade ao usuário para escolher quais gráficos incluir no PDF.
 
+<br>
+
+## Aprendizados Efetivos Hard Skills
+
+<table>
+  <tr>
+    <th width="200px">Tecnologia/Metodologia</th>
+    <th width="200px">Classificação</th>
+    <th width="200px">Nível de proficiência</th>
+  </tr>
+  <tr>
+    <td>Java</td>
+    <td>★★★★☆☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
+  </tr>
+  <tr>
+    <td>Chart.js</td>
+    <td>★★★★★★★☆☆☆</td>
+    <td>Competente</td>
+  </tr>
+  <tr>
+    <td>Vue</td>
+    <td>★★★★★★★☆☆☆</td>
+    <td>Competente</td>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>★★★☆☆☆☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
+  </tr>
+</table>
+
+<br>
 
 ## Soft skills
      
@@ -135,31 +168,6 @@ Minha atuação como desenvolvedor do grupo Fluffy fiquei na parte do front-end 
   <br> 
  </details>
   
-
-### Aprendizados Efetivos Hard Skills
-<table>
-  <tr>
-    <th width="300px">Tecnologia/Metodologia</th>
-    <th width="300px">Classificação</th>
-  </tr>
-  <tr>
-    <td>Java</td>
-    <td>★★★★★★★☆☆☆</td>
-  </tr>
-  <tr>
-    <td>Chart.js</td>
-    <td>★★★★★★★☆☆☆</td>
-  </tr>
-  <tr>
-    <td>Vue</td>
-    <td>★★★★★★★☆☆☆</td>
-  </tr>
-  <tr>
-    <td>Figma</td>
-    <td>★★★★★★☆☆☆☆</td>
-  </tr>
-</table>
-
 <hr>
 
 <div align="center">
