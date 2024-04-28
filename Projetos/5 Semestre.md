@@ -108,7 +108,7 @@ Em minha contribuição para este projeto, assumi o papel de Product Owner pela 
   </tr>
   <tr>
     <td>Git</td>
-    <td>★★★★★★★★☆☆</td>
+    <td>★★★★★★★☆☆☆</td>
     <td>Competente</td>
   </tr>
   <tr>
