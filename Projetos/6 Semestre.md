@@ -50,6 +50,7 @@ Neste projeto, buscamos compreender profundamente o sentimento dos clientes atra
 <summary>IA</summary>
       
 * [Python](https://www.python.org/downloads/)
+* [sklearn.neural_network.MLPClassifier](https://scikit-learn.org/stable/modules/generated/sklearn.neural_network.MLPClassifier.html)
 
 </details>
 
@@ -62,6 +63,10 @@ Neste projeto, buscamos compreender profundamente o sentimento dos clientes atra
 
 <details>
 <summary>Meetings and Communication</summary>
+
+* [Jira](https://www.atlassian.com/software/jira)
+
+* [Confluience](https://www.atlassian.com/br/software/confluence)
 
 * [Discord](https://discord.com/?msclkid=b4f5af84b8f811ecbd81c127a0ae68a7)
 
@@ -105,6 +110,7 @@ Além disso, assumi o compromisso de garantir que a equipe seguisse os valores e
   * Repositorio central
   * Repositorio do frontend
   * Repositorio do backend
+  * Repositorio do database
   * Repositorio do classificador(IA)
 * Criei dentro da pasta de documentação e um readme que descreve cada pasta
   * No readme coloquei DoR e tmabém as user storys mais detalhadas.
