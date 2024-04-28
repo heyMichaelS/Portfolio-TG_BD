@@ -12,6 +12,19 @@
 
 Neste projeto, buscamos compreender profundamente o sentimento dos clientes através de uma plataforma sofisticada que analisa avaliações online. Integramos tecnologias avançadas para mapear e visualizar esses sentimentos em contexto geográfico real, permitindo às empresas ajustar estratégias com precisão sem precedentes. Nosso objetivo é fornecer insights acionáveis para impulsionar a inovação e o crescimento, inaugurando uma nova era de engajamento do cliente baseada em dados. Este desafio representa uma confluência de tecnologia, análise de dados e estratégia empresarial, projetado para capacitar empresas a antecipar as necessidades dos clientes e estabelecer laços mais fortes em escala global
 
+<br>
+
+<img src = "./imagens/Etapas de Desenvolvimento(6 projeto).png"  width="70%" height="70%">
+
+
+## Resultado Final ✅
+#### Aplicação:
+
+
+| ![Descrição da imagem 1](./imagens/imagem1.jpeg) | ![Descrição da imagem 2](./imagens/imagem3.jpeg) |
+|---|---|
+| ![Descrição da imagem 3](./imagens/imagem5.jpeg) | ![Descrição da imagem 4](./imagens/imagem7.jpeg) |
+
 
 ### Tecnologias Adotadas na Solução
 
@@ -93,9 +106,10 @@ Além disso, assumi o compromisso de garantir que a equipe seguisse os valores e
   * Repositorio do frontend
   * Repositorio do backend
   * Repositorio do classificador(IA)
+* Criei dentro da pasta de documentação e um readme que descreve cada pasta
+  * No readme coloquei DoR e tmabém as user storys mais detalhadas.
 
 colocando em submodulos onde cada uma funcionava de forma inpendente e no final o repositorio central obtinha todas as alterações feitas unificando todos em um unico repositorio tornando mais organizado.
-
 
   
 
