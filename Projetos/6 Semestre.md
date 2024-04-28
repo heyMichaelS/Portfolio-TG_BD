@@ -95,7 +95,7 @@ Além disso, assumi o compromisso de garantir que a equipe seguisse os valores e
 * Juntamnete com as user storys foi onde originou cada tarefa e que foi aplicada a cada sprint
 * Acompnhamento do desenvolvimento de cada uma delas
 
-## Crição de regras no Jira
+## Criação de regras no Jira
 
 * Apliquei o conhecimento que obtive no devops e apliquei no quadro de tarefas onde cada uma que precisava da regra cria automatimanete no github a ramificação vinculando com numero do card quem fez e titulo.
 
@@ -122,6 +122,7 @@ colocando em submodulos onde cada uma funcionava de forma inpendente e no final 
 `Adaptabilidade:` Em meu primeiro contato como Scrum Master, tive a oportunidade de aprender mais sobre o funcionamento da metodologia e aplicá-la no grupo. Isso contribuiu para garantir uma entrega ágil e de valor ao longo do projeto.
 
 `Comunicação eficaz:` Com todas as reunioes de sexta passei sempre o feddback para equiipe a cada alinhamento tanto quando resultado de cada Sprint quanto individual.
+
 <br>
 
 ### Aprendizados Efetivos Hard Skills
@@ -129,22 +130,27 @@ colocando em submodulos onde cada uma funcionava de forma inpendente e no final 
   <tr>
     <th width="300px">Tecnologia/Metodologia</th>
     <th width="300px">Classificação</th>
+    <th width="200px">Nível de proficiência</th>
   </tr>
   <tr>
     <td>Jira</td>
-    <td>★★★★★★☆☆☆☆</td>
+    <td>★★★★★★★★☆☆</td>
+    <td>Competente</td>
   </tr>
   <tr>
     <td>Confluence</td>
-    <td>★★★★★★☆☆☆☆</td>
+    <td>★★★★★★★★☆☆</td>
+    <td>Competente</td>
   </tr>
   <tr>
     <td>GitHub</td>
-    <td>★★★★★★☆☆☆☆</td>
+    <td>★★★★★★★★☆☆</td>
+    <td>Competente</td>
   </tr>
   <tr>
     <td>React.js</td>
-    <td>★★★★☆☆☆☆☆☆</td>
+    <td>★★★★★☆☆☆☆☆</td>
+    <td>Sei fazer com ajuda</td>
   </tr>
 </table>
 
