@@ -25,15 +25,13 @@ Neste projeto, enfrentamos o desafio de criar um painel de visualização que co
 
 
 
-
 ### Contribuições Pessoais
 
 Em minha contribuição para este projeto, assumi o papel de Product Owner pela primeira vez. Inicialmente, recebi o documento de requisitos fornecido pelo cliente, contendo informações detalhadas. Junto com o grupo, decidimos abordar esse desafio de maneira modular, dividindo-o em três partes distintas. A terceira parte, por sua vez, foi subdividida em duas, englobando as áreas de vendas, fornecedores, estoque e movimentação.
 
-### Participação na Criação das User Stories:
-* Desempenhei um papel fundamental na criação das user stories.
-* Desenvolvi product backlog.
-
+### Participação na Criação das User Story`s:
+* Detalhando as story`s das entrega.
+* Com os requisitos do cliente desenvolvi o backlog.
 
 ### Divisão Estratégica das Entregas:
 * Inclui a divisão estratégica das entregas, conforme acordado com o cliente.
@@ -45,9 +43,6 @@ Em minha contribuição para este projeto, assumi o papel de Product Owner pela 
 ### Impacto no Projeto e Ampliação de Compreensão:
 * Envolvimento ativo na definição e estruturação do projeto ampliou a compreensão do papel do Product Owner.
 
-### Contribuição para Clareza e Eficiência na Execução do Projeto:
-
-* Contribui para a clareza e eficiência na execução do projeto como um todo
 
 <br>
 
