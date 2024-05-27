@@ -33,8 +33,7 @@ Neste projeto, buscamos compreender profundamente o sentimento dos clientes atra
 
 * [Vite+React.Js](https://vitejs.dev/guide/)
 * [Mui](https://mui.com/material-ui/getting-started/installation/)
-* [HTML](https://www.w3schools.com/css/)
-* [CSS](https://www.w3schools.com/css/)
+* [ApexCharts](https://apexcharts.com/docs/options/chart/events/#click)
 
 </details>
 
@@ -76,18 +75,7 @@ Neste projeto, buscamos compreender profundamente o sentimento dos clientes atra
 
 </details>
 
-<details>
-<summary>Outros</summary>
-
-* [Jira](https://www.atlassian.com/br/software/jira)
-
-* [Confluence](https://www.atlassian.com/br/software/confluence)
-
-</details>
-
-
-
-### Contribuições Pessoais
+## Contribuições Pessoais
 
 Na minha contribuição desempenhei o papel de Scrum Master, liderando a equipe em direção aos objetivos estabelecidos. Desde o início, trabalhei em estreita  colaboração com todos os membros para estabelecer um ambiente ágil e altamente produtivo.
 
@@ -100,7 +88,7 @@ Além disso, assumi o compromisso de garantir que a equipe seguisse os valores e
 * Juntamnete com as user storys foi onde originou cada tarefa e que foi aplicada a cada sprint
 * Acompnhamento do desenvolvimento de cada uma delas
 
-## Criação de regras no Jira
+## Rastreabilidade no Jira
 
 * Apliquei o conhecimento que obtive no devops e apliquei no quadro de tarefas onde cada uma que precisava da regra cria automatimanete no github a ramificação vinculando com numero do card quem fez e titulo.
 
@@ -113,12 +101,11 @@ Além disso, assumi o compromisso de garantir que a equipe seguisse os valores e
   * Repositorio do database
   * Repositorio do classificador(IA)
 * Criei dentro da pasta de documentação e um readme que descreve cada pasta
-  * No readme coloquei DoR e tmabém as user storys mais detalhadas.
+  * No readme coloquei DoR e também as user storys mais detalhadas.
 
 colocando em submodulos onde cada uma funcionava de forma inpendente e no final o repositorio central obtinha todas as alterações feitas unificando todos em um unico repositorio tornando mais organizado.
 
   
-
 ### Aprendizados Efetivos (Soft)
 
 `Liderança:` Foi desafiador em cada Sprint, e sempre que surgia algum impedimento, procurava envolver outra pessoa para auxiliar aqueles que enfrentavam dificuldades. Quando possível, trabalhava para resolver os pontos problemáticos, mantendo a qualidade da equipe e resultando em entregas consistentes e satisfatórias para o cliente.
