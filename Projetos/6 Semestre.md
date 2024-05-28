@@ -85,25 +85,29 @@ Além disso, assumi o compromisso de garantir que a equipe seguisse os valores e
 
 ## Distribuição das task´s
 
-* Juntamnete com as user storys foi onde originou cada tarefa e que foi aplicada a cada sprint
-* Acompnhamento do desenvolvimento de cada uma delas
+* As user stories originaram cada tarefa, que foram aplicadas a cada sprint.
+* Acompnhamento do desenvolvimento de cada uma delas.
 
 ## Rastreabilidade no Jira
 
-* Apliquei o conhecimento que obtive no devops e apliquei no quadro de tarefas onde cada uma que precisava da regra cria automatimanete no github a ramificação vinculando com numero do card quem fez e titulo.
+* Apliquei o conhecimento que obtive em DevOps no quadro de tarefas, automatizando a criação de ramificações no GitHub para cada tarefa. Essas ramificações eram vinculadas ao número do card, quem a realizou e ao título.
 
 ## Criação e configuração do repositório
 
-* Criei um repositório separado para cada
-  * Repositorio central
-  * Repositorio do frontend
-  * Repositorio do backend
-  * Repositorio do database
-  * Repositorio do classificador(IA)
-* Criei dentro da pasta de documentação e um readme que descreve cada pasta
-  * No readme coloquei DoR e também as user storys mais detalhadas.
+* Criei repositórios separados para cada componente:
+   * Repositório central
+   * Repositório do frontend
+   * Repositório do backend
+   * Repositório do banco de dados
+   * Repositório do classificador (IA)
+   * colocando em submodulos onde cada uma funcionava de forma inpendente e no final o repositorio central obtinha todas as alterações feitas unificando todos em um unico repositorio tornando mais organizado.
+* Dentro da pasta de documentação, criei um README que descreve cada pasta:
+   * No README, incluí o Definition of Ready (DoR) e as user stories mais detalhadas.
 
-colocando em submodulos onde cada uma funcionava de forma inpendente e no final o repositorio central obtinha todas as alterações feitas unificando todos em um unico repositorio tornando mais organizado.
+# Ajustes e exportação de relaotrios dos graficos
+
+  * Ajustei alguns gráficos para exportar imagem PNG e arquivo csv.
+  * Ajustei o filtro do mapa de calor.
 
   
 ### Aprendizados Efetivos (Soft)
