@@ -3,8 +3,10 @@
 
 
 
-### Parceiro Acadêmico
+### Parceiro Acadêmico: Imagem
 
+<img src = "./GIT/pandalyzeheader.jpg">
+<br>
 
 
 
