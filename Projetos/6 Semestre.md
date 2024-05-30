@@ -1,34 +1,29 @@
 # Projeto 6: 1º Semestre de 2024
 
 
+### Parceiro Acadêmico:
 
-
-### Parceiro Acadêmico: Imagem
-
-<img src = "./GIT/pandalyzeheader.jpg">
+<img src = "./GIT/7.png">
 <br>
-
 
 
 ### Visão do Projeto
 
-Neste projeto, buscamos compreender profundamente o sentimento dos clientes através de uma plataforma sofisticada que analisa avaliações online. Integramos tecnologias avançadas para mapear e visualizar esses sentimentos em contexto geográfico real, permitindo às empresas ajustar estratégias com precisão sem precedentes. Nosso objetivo é fornecer insights acionáveis para impulsionar a inovação e o crescimento, inaugurando uma nova era de engajamento do cliente baseada em dados. Este desafio representa uma confluência de tecnologia, análise de dados e estratégia empresarial, projetado para capacitar empresas a antecipar as necessidades dos clientes e estabelecer laços mais fortes em escala global
+Neste projeto, buscamos compreender o sentimento dos clientes através de uma plataforma que analisa avaliações online. Integramos tecnologias avançadas para mapear e visualizar esses sentimentos em contexto geográfico real, permitindo às empresas ajustar estratégias com precisão. Nosso objetivo é fornecer insights acionáveis para impulsionar a inovação e o crescimento, baseando o engajamento do cliente em dados. Este desafio representa uma confluência de tecnologia, análise de dados e estratégia empresarial, projetado para capacitar empresas a antecipar as necessidades dos clientes.
 
 <br>
 
-<img src = "./imagens/Etapas de Desenvolvimento(6 projeto).png"  width="70%" height="70%">
+<img src = "./imagens/Etapas de Desenvolvimento(6 projeto).png"  width="100%" height="70%">
 
 
 ## Resultado Final ✅
-#### Aplicação:
+<br>
 
-
-| ![Descrição da imagem 1](./imagens/imagem1.jpeg) | ![Descrição da imagem 2](./imagens/imagem3.jpeg) |
-|---|---|
-| ![Descrição da imagem 3](./imagens/imagem5.jpeg) | ![Descrição da imagem 4](./imagens/imagem7.jpeg) |
+![Assista ao vídeo de demonstração](./GIT/pandalyze.gif)
 
 
 ### Tecnologias Adotadas na Solução
+<br>
 
   <details>
 <summary>Front-End</summary>
@@ -77,6 +72,8 @@ Neste projeto, buscamos compreender profundamente o sentimento dos clientes atra
 
 </details>
 
+<br>
+
 ## Contribuições Pessoais
 
 Na minha contribuição desempenhei o papel de Scrum Master, liderando a equipe em direção aos objetivos estabelecidos. Desde o início, trabalhei em estreita  colaboração com todos os membros para estabelecer um ambiente ágil e altamente produtivo.
@@ -85,10 +82,13 @@ Como parte desse papel, minha responsabilidade incluiu facilitar as diversas reu
 
 Além disso, assumi o compromisso de garantir que a equipe seguisse os valores e práticas ágeis. Isso significava ajudar a identificar e eliminar impedimentos, promover a transparência em todas as etapas do processo e garantir que o backlog do produto fosse mantido atualizado e priorizado de forma adequada para maximizar o valor entregue.
 
-## Distribuição das task´s
+`Desafio` Durante o projeto, enfrentei alguns desafios, especialmente com a ausência de alguns desenvolvedores do grupo devido a questões de saúde. Isso exigiu realocar algumas pessoas de suas funções na segunda entrega, o que foi bastante difícil, pois estávamos próximos ao prazo final. Compreendo o impacto dessas ausências no time e a pressão adicional sobre todos nós. Mesmo assim, conseguimos nos unir e fazer a entrega no último dia, apesar de ser a mais difícil em termos de trabalho. Nem todos os desenvolvedores estavam disponíveis, tornando a entrega de todas as tarefas um grande desafio. No entanto, com muita colaboração e esforço coletivo, superamos esses obstáculos e realizamos a entrega com sucesso.
+
+
+## Distribuição das Tarefas
 
 * As user stories originaram cada tarefa, que foram aplicadas a cada sprint.
-* Acompnhamento do desenvolvimento de cada uma delas.
+* Acompanhamento do desenvolvimento de cada tarefa.
 
 ## Rastreabilidade no Jira
 
@@ -106,7 +106,7 @@ Além disso, assumi o compromisso de garantir que a equipe seguisse os valores e
 * Dentro da pasta de documentação, criei um README que descreve cada pasta:
    * No README, incluí o Definition of Ready (DoR) e as user stories mais detalhadas.
 
-# Ajustes e exportação de relaotrios dos graficos
+## Ajustes e exportação de relatórios dos gráficos
 
   * Ajustei alguns gráficos para exportar imagem PNG e arquivo csv.
   * Ajustei o filtro do mapa de calor.
@@ -120,7 +120,7 @@ Além disso, assumi o compromisso de garantir que a equipe seguisse os valores e
 
 `Adaptabilidade:` Em meu primeiro contato como Scrum Master, tive a oportunidade de aprender mais sobre o funcionamento da metodologia e aplicá-la no grupo. Isso contribuiu para garantir uma entrega ágil e de valor ao longo do projeto.
 
-`Comunicação eficaz:` Com todas as reunioes de sexta passei sempre o feddback para equiipe a cada alinhamento tanto quando resultado de cada Sprint quanto individual.
+`Comunicação eficaz:` Com todas as reuniões de sexta passei sempre o feedback para equipe a cada alinhamento tanto quando resultado de cada Sprint quanto individual.
 
 <br>
 
