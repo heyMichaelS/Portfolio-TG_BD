@@ -13,10 +13,10 @@ Neste projeto, enfrentamos o desafio de criar um painel de visualização que co
 
 <br> 
 
-<img src = "./imagens/Etapas de Desenvolvimento(5 projeto).png"  width="70%" height="70%">
+<img src = "./imagens/Etapas de Desenvolvimento(5 projeto).png"  width="100%" height="70%">
 
 ## Resultado Final ✅
-#### Aplicação:
+
 
 
 ![Oracle Sprint 1](./imagens/Oracle_Sprint_1.jpg) | ![Oracle 1 Sprint 2](./imagens/Oracle_1_Sprint_2.jpg)
