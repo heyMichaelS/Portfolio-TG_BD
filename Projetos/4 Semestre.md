@@ -15,11 +15,10 @@ Atualmente, pilotos freelancers enfrentam desafios significativos na gestão de 
 
 <br>
 
-<img src="./imagens/Etapas de Desenvolvimento(4 projeto).png" width="70%" height="70%">
+<img src="./imagens/Etapas de Desenvolvimento(4 projeto).png" width="100%" height="70%">
 
 
 ## Resultado Final ✅
-#### Aplicação:
 
 <p align="center">
       <img src="https://raw.githubusercontent.com/octopusBD/apiEmbraer4-sem/Sprint-4/Imagens%20documentacao/doc/dispositivos1.png" width="100%" height="100%">
