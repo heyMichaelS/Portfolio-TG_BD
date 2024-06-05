@@ -76,45 +76,45 @@ Neste projeto, buscamos compreender o sentimento dos clientes através de uma pl
 
 ## Contribuições Pessoais
 
-Na minha contribuição desempenhei o papel de Scrum Master, liderando a equipe em direção aos objetivos estabelecidos. Desde o início, trabalhei em estreita  colaboração com todos os membros para estabelecer um ambiente ágil e altamente produtivo.
+Minha contribuição desempenhei o papel de Scrum Master, liderando a equipe em direção aos objetivos estabelecidos. Desde o início, trabalhei em estreita colaboração com todos os membros principalmente com a PO do grupo para estabelecer um ambiente ágil e altamente produtivo.
 
 Como parte desse papel, minha responsabilidade incluiu facilitar as diversas reuniões do Scrum, como o planejamento do sprint, a revisão do sprint e a retrospectiva. Durante essas sessões, mantive o foco nos objetivos do sprint, resolvendo prontamente quaisquer obstáculos que surgissem e incentivando a equipe a aprender e melhorar continuamente.
 
 Além disso, assumi o compromisso de garantir que a equipe seguisse os valores e práticas ágeis. Isso significava ajudar a identificar e eliminar impedimentos, promover a transparência em todas as etapas do processo e garantir que o backlog do produto fosse mantido atualizado e priorizado de forma adequada para maximizar o valor entregue.
 
-`Desafio` Durante o projeto, enfrentei alguns desafios, especialmente com a ausência de alguns desenvolvedores do grupo devido a questões de saúde. Isso exigiu realocar algumas pessoas de suas funções na segunda entrega, o que foi bastante difícil, pois estávamos próximos ao prazo final. Compreendo o impacto dessas ausências no time e a pressão adicional sobre todos nós. Mesmo assim, conseguimos nos unir e fazer a entrega no último dia, apesar de ser a mais difícil em termos de trabalho. Nem todos os desenvolvedores estavam disponíveis, tornando a entrega de todas as tarefas um grande desafio. No entanto, com muita colaboração e esforço coletivo, superamos esses obstáculos e realizamos a entrega com sucesso.
+`Desafio` Durante o projeto, enfrentei desafios significativos, especialmente devido à ausência de alguns desenvolvedores por questões de saúde. Isso exigiu a realocação de membros da equipe para diferentes funções durante a segunda entrega, um desafio considerável dado a proximidade do prazo final. Compreendi o impacto dessas ausências no time e a pressão adicional sobre todos nós. Mesmo assim, conseguimos nos unir e realizar a entrega no último dia, apesar das dificuldades. Nem todos os desenvolvedores estavam disponíveis, tornando a conclusão de todas as tarefas um grande desafio. No entanto, através de colaboração intensa e esforço coletivo, superamos esses obstáculos e entregamos o projeto com sucesso.
 
 
 ## Distribuição das Tarefas
 
-* As user stories originaram cada tarefa, que foram aplicadas a cada sprint.
-* Acompanhamento do desenvolvimento de cada tarefa.
-
+* Cada tarefa foi derivada de user stories e atribuída a cada sprint.
+* Monitoramento contínuo do desenvolvimento de cada tarefa.
+  
 ## Rastreabilidade no Jira
 
-* Apliquei o conhecimento que obtive em DevOps no quadro de tarefas, automatizando a criação de ramificações no GitHub para cada tarefa. Essas ramificações eram vinculadas ao número do card, quem a realizou e ao título.
+* Utilizei conhecimentos de DevOps para automatizar a criação de ramificações no GitHub a partir do quadro de tarefas do Jira. Cada ramificação foi vinculada ao número do card, ao responsável e ao título da tarefa.
 
 ## Criação e configuração do repositório
 
-* Criei repositórios separados para cada componente:
+* Criei repositórios separados para cada componente do projeto:
    * Repositório central
    * Repositório do frontend
    * Repositório do backend
    * Repositório do banco de dados
-   * Repositório do classificador (IA)
-   * colocando em submodulos onde cada uma funcionava de forma inpendente e no final o repositorio central obtinha todas as alterações feitas unificando todos em um unico repositorio tornando mais organizado.
-* Dentro da pasta de documentação, criei um README que descreve cada pasta:
-   * No README, incluí o Definition of Ready (DoR) e as user stories mais detalhadas.
-
+   * Repositório do classificador AI
+   * Cada repositório foi configurado como submódulo, permitindo funcionamento independente e, ao final, integrando todas as alterações no repositório central para unificação e organização.
+* No diretório de documentação, criei um README detalhado:
+   * O README incluiu o Definition of Ready (DoR) e as user stories detalhadas.
+     
 ## Ajustes e exportação de relatórios dos gráficos
 
-  * Ajustei alguns gráficos para exportar imagem PNG e arquivo csv.
-  * Ajustei o filtro do mapa de calor.
+  * Ajustei gráficos para permitir exportação em formato PNG e CSV.
+  * Modifiquei o filtro do mapa de calor para melhorar a precisão dos dados.
 
   
 ### Aprendizados Efetivos (Soft)
 
-`Liderança:` Foi desafiador em cada Sprint, e sempre que surgia algum impedimento, procurava envolver outra pessoa para auxiliar aqueles que enfrentavam dificuldades. Quando possível, trabalhava para resolver os pontos problemáticos, mantendo a qualidade da equipe e resultando em entregas consistentes e satisfatórias para o cliente.
+`Liderança:` Durante cada Sprint, enfrentei desafios ao lidar com impedimentos, e sempre envolvi membros da equipe para auxiliar na resolução de dificuldades. Sempre que possível, trabalhei diretamente para resolver os pontos problemáticos, mantendo a qualidade da equipe e assegurando entregas consistentes e satisfatórias para o cliente.
 
 `Gestão do tempo:` Durante a atribuição das tarefas, consegui estimar o tempo necessário para cada uma delas, o que me permitiu criar um cronograma mais preciso para cada sprint, Isso ajudou na gestão do tempo e na entrega eficiente das tarefas designadas.
 
