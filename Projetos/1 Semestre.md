@@ -98,7 +98,7 @@ Durante minha participação no projeto interno realizado em colaboração com a
   <tr>
     <td>Python</td>
     <td>★★★★★☆☆☆☆☆</td>
-    <td>>Sei fazer com ajuda</td>
+    <td>Sei fazer com ajuda</td>
   </tr>
   <tr>
     <td>Pandas</td>
