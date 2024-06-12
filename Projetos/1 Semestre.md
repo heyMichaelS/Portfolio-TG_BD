@@ -16,7 +16,7 @@ Foi criado um software para computador utilizando Python com o objetivo de anali
 
 <br>
 
-<img src= "./imagens/Etapas de Desenvolvimento.png" width="60%" height="60%">
+<img src= "./imagens/Etapas de Desenvolvimento.png" width="100%" height="60%">
 
 ## Resultado Final ✅
 #### Aplicação:
