@@ -19,15 +19,15 @@
 <p align="center">Olá e seja bem-vindo !!!</>
   <br>
   <br>
-<p>Sou Michael Silva, um profissional de QA na área de qualidade, onde desempenho um papel crucial no processo de testes de cada aplicação, garantindo sua excelência e conformidade. Minha paixão pela tecnologia surgiu durante o ensino fundamental, quando tive meus primeiros contatos com computadores. Esse interesse só cresceu ao longo dos anos.</p>
+<p>Sou Michael Felipe Santos Silva , nascido em São José dos Campos - SP, e tenho 28 anos. Sou Analista de Qualidade Júnior, onde desempenho um papel crucial no processo de testes de cada aplicação, garantindo sua excelência e conformidade. Minha paixão pela tecnologia surgiu durante o ensino fundamental, quando tive meus primeiros contatos com computadores. Esse interesse só cresceu ao longo dos anos.</p>
 
-<p>Após concluir o ensino médio, dei um passo adiante e ingressei na ETEC Professora Ilza Nascimento Pintus, onde tive minha primeira contato com programação. Embora desafiador no início, concluí o curso técnico em 2016, consolidando minha base de conhecimento.</p>
+<p>Após concluir o ensino médio em 2013, dei um passo adiante e ingressei na ETEC Professora Ilza Nascimento Pintus em 2015 com 20 anos, onde tive minha primeiro contato com programação. Embora desafiador no início, concluí o curso técnico em 2016, consolidando minha base de conhecimento.</p>
 
-<p>Mesmo após um período dedicado a outras áreas, meu fascínio pela tecnologia permaneceu. Motivado pela sensação de que havia mais para explorar, decidi retornar ao mundo da tecnologia. Durante a pandemia, aproveitei a oportunidade para me matricular na FATEC São José dos Campos - Prof. Jessen Vidal, onde escolhi cursar Banco de Dados, ampliando ainda mais meu leque de habilidades e perspectivas.</p>
+<p>Mesmo após um período dedicado a outras áreas, meu fascínio pela tecnologia permaneceu. Motivado pela sensação de que havia mais para explorar, decidi retornar ao mundo da tecnologia. Durante a pandemia, aproveitei a oportunidade para me matricular na FATEC São José dos Campos - Prof. Jessen Vidal em 2021 com 25 anos, onde enhressei no curso de Banco de Dados, ampliando ainda mais meu leque de habilidades e perspectivas.</p>
 
-<p>A cada semestre, mergulhei mais fundo no universo da programação, especialmente em APIs, onde pude atuar como Desenvolvedor, Product Owner e Scrum Master, enfrentando desafios que me permitiram adquirir uma valiosa experiência em diversas vertentes.</p>
+<p>A cada semestre, aprofundei-me mais no universo da programação, especialmente no desenvolvimento de APIs. Tive a oportunidade de atuar como Desenvolvedor, Product Owner e Scrum Master, enfrentando desafios que me proporcionaram uma valiosa experiência em diversas áreas.</p>
 
-<p>Minha primeira oportunidade profissional foi marcada pelo desenvolvimento de APIs, e a bagagem adquirida ao longo dos anos destacou-se durante o processo de seleção, permitindo-me evidenciar meu compromisso e habilidades únicas no campo da tecnologia.</p>
+<p>Minha primeira oportunidade profissional foi marcada pelo desenvolvimento de APIs. A experiência acumulada ao longo dos anos destacou-se durante o processo seletivo, o que me garantiu uma vaga de estágio na empresa Youtan em 2023. Esse estágio permitiu-me evidenciar meu compromisso e habilidades únicas no campo da tecnologia.</p>
 <hr>
 
 <p>Cursos 💻 </p> 
@@ -83,17 +83,17 @@ A seguir, destacam-se os projetos desenvolvidos, delineando o problema enfrentad
 
 ### Sumário
 
-[Projeto 1 - Shark Cov](https://github.com/heyMichaelS/Portfolio-TG_BD/blob/main/Projetos/1%20Semestre.md)
+[Projeto 1°- Shark Cov](https://github.com/heyMichaelS/Portfolio-TG_BD/blob/main/Projetos/1%20Semestre.md)
 
-[Projeto 2 - Dom Rock](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/2%20Semestre.md)
+[Projeto 2° - Dom Rock](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/2%20Semestre.md)
 
-[Projeto 3 - Iacit](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/3%20Semestre.md)
+[Projeto 3° - Iacit](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/3%20Semestre.md)
 
-[Projeto 4 - Embraer](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/4%20Semestre.md)
+[Projeto 4° - Embraer](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/4%20Semestre.md)
 
-[Projeto 5 - Oracle](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/5%20Semestre.md)
+[Projeto 5° - Oracle](https://github.com/heyMichaelS//Portfolio-TG_BD/blob/main/Projetos/5%20Semestre.md)
 
-[Projeto 6 - Imagem](https://github.com/heyMichaelS/Portfolio-TG_BD/blob/main/Projetos/6%20Semestre.md)
+[Projeto 6° - Imagem](https://github.com/heyMichaelS/Portfolio-TG_BD/blob/main/Projetos/6%20Semestre.md)
 
 
 <div align="center">
