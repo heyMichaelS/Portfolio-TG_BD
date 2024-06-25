@@ -13,7 +13,7 @@ Neste projeto, enfrentamos o desafio de criar um painel de visualização que co
 
 <br> 
 
-<img src = "./imagens/Etapas de Desenvolvimento(5 projeto).png"  width="100%" height="70%">
+<img src = "./imagens/_Etapas de Desenvolvimento(5 projeto).png"  width="100%" height="70%">
 
 ## Resultado Final ✅
 
