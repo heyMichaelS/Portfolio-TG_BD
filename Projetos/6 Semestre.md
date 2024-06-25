@@ -9,7 +9,7 @@
 
 ### Visão do Projeto
 
-Neste projeto, buscamos compreender o sentimento dos clientes através de uma plataforma que analisa avaliações online. Integramos tecnologias avançadas para mapear e visualizar esses sentimentos em contexto geográfico real, permitindo às empresas ajustar estratégias com precisão. Nosso objetivo é fornecer insights acionáveis para impulsionar a inovação e o crescimento, baseando o engajamento do cliente em dados. Este desafio representa uma confluência de tecnologia, análise de dados e estratégia empresarial, projetado para capacitar empresas a antecipar as necessidades dos clientes.
+Neste projeto, queremos entender o sentimento dos clientes usando uma plataforma que analisa avaliações online. Usamos tecnologias avançadas para mostrar esses sentimentos em um mapa geográfico, ajudando as empresas a ajustar suas estratégias com precisão. Nosso objetivo é fornecer insights práticos para impulsionar a inovação e o crescimento, baseando o engajamento do cliente em dados. Este projeto combina tecnologia, análise de dados e estratégia empresarial para ajudar as empresas a antecipar as necessidades dos clientes.
 
 <br>
 
