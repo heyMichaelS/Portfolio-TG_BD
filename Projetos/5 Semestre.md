@@ -9,7 +9,7 @@ Parceiro Acadêmico
 
 ### Visão do Projeto
 
-Neste projeto, enfrentamos o desafio de criar um painel de visualização que concentrasse-se nas insights de vendas, controle de estoque e fornecedores para um restaurante. O objetivo central era proporcionar uma visão holística, permitindo não apenas uma análise detalhada do presente, mas também servindo como base para previsões futuras. A busca pela harmonia entre estética e funcionalidade foi constante, visando criar uma experiência intuitiva e poderosa para a gestão estratégica do estabelecimento.
+Neste projeto, enfrentamos o desafio de criar um painel de visualização que concentrasse-se nas insights de vendas, controle de estoque e fornecedores para um restaurante. O objetivo central proporcionar uma visão holística, permitindo não apenas uma análise detalhada do presente, mas também servindo como base para previsões futuras. A busca pela harmonia entre estética e funcionalidade foi constante, visando criar uma experiência intuitiva e poderosa para a gestão estratégica do estabelecimento.
 
 <br> 
 
