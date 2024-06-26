@@ -15,7 +15,7 @@ Atualmente, pilotos freelancers enfrentam desafios significativos na gestão de 
 
 <br>
 
-<img src="./imagens/Etapas de Desenvolvimento(4 projeto).png" width="100%" height="70%">
+<img src="./imagens/_Etapas de Desenvolvimento(4 projeto).png" width="100%" height="70%">
 
 
 ## Resultado Final ✅
