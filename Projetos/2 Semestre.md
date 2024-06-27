@@ -135,16 +135,13 @@ Nesse projeto com fim do meu grupo anterior chegue na parte de desenvolvimento d
 
 ## Soft skills 
 
-`Persistencia:` Após a desolução da minha equipe anterior tive que ter persistencia com demais novos integrantes do grupo.
+`Persistencia:` Após a dissolução da minha equipe anterior tive que ter persistência com demais novos integrantes do grupo.
 
-`Flexibilidade:` Demostrei flexibilidade em me adapatar a um novo grupo.
+`Flexibilidade:`  Demostrei flexibilidade em me adaptar a um novo grupo.
 
-`Trabalho em Equipe: `Mantive a vião geral do projeto alinha desdo começo.
+`Trabalho em Equipe:` Mantive a visão geral do projeto alinha desde começo.
 
 <br>
-
-
-
 
 
 <hr>
